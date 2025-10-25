@@ -1,0 +1,67 @@
+# Q&A runner configuration (chat-first, multi-round)
+#
+# Notes:
+# - Runner uses chat format (system+user), supports multi-round with history and repeats.
+# - PLAN/END format is enforced; DSL execution is available when PLAN is produced.
+
+qna:
+  # -------------------- General --------------------
+  # Root folder containing curated questions. Subfolders: single_table/, multi_table/, distractor_bank/
+  questions_path: "data/questions"
+  # Default model name. Ollama tags must match.
+  model: "llama3"
+  # Optional cap on number of questions to process per run. Set null to process all.
+  limit: null           # e.g., 50
+  # Random seed used for question shuffling and sampling.
+  seed: 42
+
+  # -------------------- LLM --------------------
+  llm:
+    provider: "ollama"                   # ollama | vllm | together
+    url: "http://localhost:11434"  # base URL of local LLM server
+    temperature: 1.0                 # high for variability in repeats
+    top_p: 0.9
+    max_tokens: 1024                  # num_predict
+    # timeout moved to qna.run.llm_timeout_s
+
+  # -------------------- Selection --------------------
+  selection:
+    mode: "custom"            # all | single_table | multi_table | distractor | custom
+    custom_ids: []            # run all questions
+    batch_size: 10           # number of questions per batch
+    continue: false          # enable continue from specific question
+    continue_from: null     # question number to continue from (1-based)
+    continue_batches: true # continue to next batch after current batch completes 
+
+  # -------------------- Observation Space --------------------
+  obs:
+    mode: "header_5"                # full_table | header_5 | header_1
+    max_rows_per_table: 500        # max rows to show in full_table mode
+
+  # -------------------- Prompt --------------------
+  prompt:
+    few_shot_k: 3                   # 0 | 1 | 3
+    include_cot: false            # include reasoning section in examples
+    dump_prompt: true              # TEMP: dump constructed prompt/messages to txt for inspection
+
+  # -------------------- Run  --------------------
+  run:
+    time_limit_s: 300               # per-question budget → TIME OUT【run】
+    llm_timeout_s: 30                 # per-call timeout → TIME OUT【llmcall】
+    max_turns: 10                     # multi-round only; END token is fixed internally
+    history_limit: 5                 # None | "all" | int; None disables history injection
+    repeats: 3                       # number of repeated runs per question for statistics
+    repeated_plan_threshold: 5      # if same PLAN executed N times, use result directly
+    stubborn_threshold: 3           # if same failed PLAN repeated N times, force different approach
+    stubborn_termination_threshold: 5  # if same failed PLAN repeated N times, force termination
+
+  # -------------------- Validator --------------------
+  validator:
+    model: "llama3"                     # validator model (ollama or remote)
+    timeout_s: 10.0                     # timeout per validation call
+    url: "http://localhost:11434"       # base URL for Ollama (ignored for mock)
+
+  # -------------------- Result & Logging --------------------
+  result:
+    result_dir: "experiments/results"   # per-run outputs will be created under this dir
+    log_dir: "logs"                         # reserved for future logging (currently unused)

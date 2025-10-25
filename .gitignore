@@ -1,0 +1,127 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# UV lock files
+uv.lock
+.uv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and runtime files
+*.log
+logs/*.log
+logs/*/
+!logs/README.md
+
+# Experiment results and outputs
+experiments/results/
+experiments/analysis/comparison_experiments/
+experiments/analysis/*/results/
+experiments/analysis/*/output/
+experiments/analysis/*/analysis_*.json
+experiments/analysis/*/analysis_*.png
+experiments/analysis/*/analysis_*.md
+
+# Data analysis visualization outputs
+experiments/analysis/question_statistics/
+experiments/analysis/table_statistics/
+experiments/analysis/*_data/
+experiments/analysis/*_statistics/
+
+# Temporary analysis files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Paper folder (as requested)
+paper/
+
+# Large data files that shouldn't be in repo
+*.csv
+*.jsonl
+*.json
+!configs/*.yaml
+!configs/*.json
+
+# Data directories to ignore
+data/questions/single_table/
+data/questions/multi_table/
+data/questions/distractor_bank/
+data/questions/sample_questions/
+data/tables/
+
+# Model files and checkpoints
+*.bin
+*.safetensors
+*.pt
+*.pth
+models/
+checkpoints/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# System files
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*

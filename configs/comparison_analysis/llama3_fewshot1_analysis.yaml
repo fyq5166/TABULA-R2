@@ -1,0 +1,69 @@
+analysis:
+  # Input configuration
+  input:
+    # List of result directories to analyze
+    result_dirs:
+      - "experiments/results/20251025_043927"
+    
+    # Optional: specific question IDs to analyze (if empty, analyze all)
+    question_ids: []
+    
+    # Question metadata folder location
+    question_folder: "data/questions"
+    
+  # Output configuration
+  output:
+    # Directory to save analysis results
+    output_dir: "experiments/analysis/comparison_experiments/llama3_fewshot1"
+    
+    # Name for this analysis run
+    analysis_name: "llama3_fewshot1"
+    
+    # Introduction section describing this analysis
+    introduction:
+      title: "Llama3 Few-shot=1 Analysis - Comparison Experiment"
+      description: |
+        This analysis is part of our comprehensive comparison study evaluating different language models
+        on tabular data reasoning tasks. This specific analysis focuses on Llama3 with a single few-shot example,
+        testing the minimal impact of demonstration examples, providing just one example to guide the model's
+        understanding of the expected DSL format and reasoning approach.
+        
+        This experiment uses the standard configuration with 1 few-shot example,
+        no chain-of-thought reasoning, and header-5 observation mode. The results will be
+        compared against other few-shot variants to understand the impact of demonstration examples
+        on tabular data reasoning performance.
+    
+  statistics:
+    basic_stats: true
+    result_distribution: true
+    dsl_execution: true
+    llm_rounds: true
+    error_patterns: true
+    metadata_analysis: true
+    consistency_analysis: true
+    question_specific: true
+    
+  visualizations:
+    charts:
+      - "results_distribution"
+      - "dsl_execution_pie"
+      - "dsl_execution_bar"
+      - "llm_rounds_distribution"
+      - "null_answer_errors"
+      - "success_by_reasoning_type"
+      - "success_by_complexity"
+      - "success_by_domain"
+      - "consistency_analysis"
+    style:
+      show_values: true
+      show_percentages: true
+      
+  detailed:
+    question_ids: null  # Analyze all questions
+    include_failed: true
+    include_timeout: true
+    
+  output_formats:
+    json: true
+    images: true
+    markdown: true

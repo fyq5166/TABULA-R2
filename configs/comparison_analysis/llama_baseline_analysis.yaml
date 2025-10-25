@@ -1,0 +1,67 @@
+analysis:
+  # Input configuration
+  input:
+    # List of result directories to analyze
+    result_dirs:
+      - "experiments/results/20251025_180126"
+    
+    # Optional: specific question IDs to analyze (if empty, analyze all)
+    question_ids: []
+    
+    # Question metadata folder location
+    question_folder: "data/questions"
+    
+  # Output configuration
+  output:
+    # Directory to save analysis results
+    output_dir: "experiments/analysis/comparison_experiments/llama_baseline"
+    
+    # Name for this analysis run
+    analysis_name: "llama_baseline"
+    
+    # Introduction section describing this analysis
+    introduction:
+      title: "Llama3 Baseline Analysis - Sample Questions"
+      description: |
+        This analysis examines the performance of Llama3 baseline model on a carefully selected 
+        set of 50 representative questions. The sample includes 25 single-table and 25 multi-table 
+        questions, balanced across domains, reasoning types, and complexity levels.
+        
+        This baseline analysis provides insights into the model's core performance characteristics
+        and identifies areas for improvement in tabular data reasoning capabilities. The results
+        serve as a foundation for comparing against other model variants and configurations.
+    
+  statistics:
+    basic_stats: true
+    result_distribution: true
+    dsl_execution: true
+    llm_rounds: true
+    error_patterns: true
+    metadata_analysis: true
+    consistency_analysis: true
+    question_specific: true
+    
+  visualizations:
+    charts:
+      - "results_distribution"
+      - "dsl_execution_pie"
+      - "dsl_execution_bar"
+      - "llm_rounds_distribution"
+      - "null_answer_errors"
+      - "success_by_reasoning_type"
+      - "success_by_complexity"
+      - "success_by_domain"
+      - "consistency_analysis"
+    style:
+      show_values: true
+      show_percentages: true
+      
+  detailed:
+    question_ids: null  # Analyze all questions
+    include_failed: true
+    include_timeout: true
+    
+  output_formats:
+    json: true
+    images: true
+    markdown: true

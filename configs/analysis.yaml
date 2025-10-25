@@ -1,0 +1,168 @@
+# Analysis Configuration
+# Configuration for analyzing experiment results
+
+analysis:
+  # Input configuration
+  input:
+    # List of result directories to analyze
+    result_dirs:
+      - "experiments/results/20251024_004814"
+      # - "experiments/results/20251024_091234"  # Add more as needed
+    
+    # Optional: specific question IDs to analyze (if empty, analyze all)
+    question_ids: []
+    
+    # Question metadata folder location
+    question_folder: "data/questions"
+    
+  
+  # Output configuration
+  output:
+    # Directory to save analysis results
+    output_dir: "experiments/analysis"
+    
+    # Name for this analysis run
+    analysis_name: "distractor_bank_data"
+    
+    # Introduction section describing this analysis
+    introduction:
+      title: "Distractor Bank Q&A Evaluation Analysis"
+      description: |
+        This analysis focuses on the distractor bank data version, 
+        providing a comprehensive evaluation of the llama3 model's question answering performance on a set of distractor bank questions. 
+        The analysis includes overall success rates, error distribution, and performance across different question types and difficulty levels, 
+        serving as a baseline reference for future studies involving distractor bank or more complex tasks.
+      
+      # Optional: additional context
+      context:
+        model: "llama3"
+        dataset: "distractor_bank"
+        evaluation_date: "2025-10-23"
+        notes: "Initial distractor bank data evaluation run"
+  
+  # Analysis configuration
+  analysis:
+    # Statistical analysis options
+    statistics:
+      # Basic statistics
+      basic_stats: true
+        # total_questions, unique_questions, success_rate
+      
+      # Result distribution analysis
+      result_distribution: true
+        # SUCCESS, FAILED, NULL_ANSWER counts
+      
+      # DSL execution analysis
+      dsl_execution: true
+        # SUCCESS/FAILED counts, error codes
+      
+      # LLM round analysis
+      llm_rounds: true
+        # total_llm_rounds, avg_rounds_per_run, rounds_per_run
+      
+      # Error pattern analysis
+      error_patterns: true
+        # most_common_errors, error_frequency_by_question, avg_errors_per_run
+      
+      # Time analysis
+      time_analysis: true
+        # execution time statistics
+      
+      # Metadata analysis
+      metadata_analysis: true
+        # reasoning_type, answer_type, complexity, domain analysis
+      
+      # Consistency analysis
+      consistency_analysis: true
+        # all_success, all_error, mixed questions
+      
+      # Question-specific analysis
+      question_specific: true
+        # per-question detailed statistics
+    
+    # Detailed analysis options
+    detailed:
+      # Error type analysis
+      error_types:
+        - "PLAN_SYNTAX"
+        - "EXEC_ERROR" 
+        - "FORMAT_NO_BLOCK"
+        - "LLM_TIMEOUT"
+        - "VALIDATOR_TIMEOUT"
+      
+      # Question pattern analysis
+      question_patterns: true
+        # patterns in question difficulty, type, domain
+      
+      # Model response analysis
+      response_analysis: true
+        # LLM response patterns, round counts
+      
+      # Execution step analysis
+      step_analysis: true
+        # individual step success/failure patterns
+    
+    # Output format options
+    output_formats:
+      # Generate summary report
+      summary_report: true
+      
+      # Generate detailed analysis
+      detailed_analysis: true
+      
+      # Generate visualizations
+      visualizations: true
+      
+      # Generate comparison tables
+      comparison_tables: true
+  
+  # Visualization configuration
+  visualizations:
+    # Chart types to generate
+    charts:
+      # Basic result charts
+      - "results_distribution"           # LLM validation results pie chart
+      - "dsl_execution_errors"          # DSL execution status bar chart
+      - "dsl_execution_pie"             # DSL execution error codes pie chart
+      - "null_answer_errors"            # NULL answer error types pie chart
+      - "llm_rounds_distribution"       # LLM rounds per run distribution
+      - "execution_time_distribution"   # Execution time histogram
+      
+      # Metadata-based charts
+      - "success_by_reasoning_type"     # Success rate by reasoning type
+      - "success_by_complexity"        # Success rate by complexity level
+      - "success_by_domain"            # Success rate by domain
+      - "success_by_answer_type"       # Success rate by answer type
+      - "success_by_has_distractor"    # Success rate by distractor presence
+      - "success_by_distractor_type"   # Success rate by distractor type
+      
+      # Error analysis charts
+      - "error_frequency_by_question"   # Error frequency per question
+      - "most_common_errors"           # Most common error types
+      
+      # Consistency charts
+      - "consistency_analysis"         # Consistency rate analysis
+    
+    # Chart styling
+    style:
+      theme: "default"
+      colors: ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b"]
+      figure_size: [12, 8]
+      dpi: 300
+      show_values: true                 # Show count and percentage on charts
+      show_percentages: true            # Show percentages on pie charts
+  
+  # Comparison configuration (if single result dirs)
+  comparison:
+    # Enable comparison analysis
+    enabled: true
+    
+    # Comparison metrics
+    metrics:
+      - "success_rate"
+      - "error_rate"
+      - "average_time"
+      - "model_behavior"
+    
+    # Statistical tests
+    statistical_tests: true

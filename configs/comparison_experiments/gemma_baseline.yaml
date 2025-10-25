@@ -1,0 +1,51 @@
+# Gemma Baseline Configuration
+# Model: gemma:7b, Few-shot: 3, CoT: false, Obs: header_5
+
+qna:
+  questions_path: "data/questions"
+  model: "gemma:7b"
+  limit: null
+  seed: 42
+
+  llm:
+    provider: "ollama"
+    url: "http://localhost:11434"
+    temperature: 1.0
+    top_p: 0.9
+    max_tokens: 1024
+
+  selection:
+    mode: "custom"
+    custom_ids: ["2", "4-5", "8-10", "22", "24", "28-29", "32", "53-54", "65", "68", "84", "86", "90", "93", "96", "100-101", "110", "139-140", "203", "207", "221-225", "227-228", "231", "235", "237", "241", "244-245", "247-250", "256", "264-265", "267", "272", "274"]
+    batch_size: 10
+    continue: false
+    continue_from: null
+    continue_batches: true
+
+  obs:
+    mode: "header_5"
+    max_rows_per_table: 500
+
+  prompt:
+    few_shot_k: 3
+    include_cot: false
+    dump_prompt: true
+
+  run:
+    time_limit_s: 300
+    llm_timeout_s: 30
+    max_turns: 10
+    history_limit: 5
+    repeats: 3
+    repeated_plan_threshold: 5
+    stubborn_threshold: 3
+    stubborn_termination_threshold: 5
+
+  validator:
+    model: "llama3"
+    timeout_s: 10.0
+    url: "http://localhost:11434"
+
+  result:
+    result_dir: "experiments/results"
+    log_dir: "logs"

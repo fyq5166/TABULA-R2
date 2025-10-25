@@ -1,0 +1,86 @@
+# Data Processing Configuration for TABULA-R2 Project
+#
+# Purpose: Drive OWID ingestion, table cleaning thresholds, metadata extraction,
+# storage paths, and pipeline execution modes.
+# Notes:
+# - Designed for simplicity; values can be overridden via environment variables
+#   with prefix TABULA_, e.g. TABULA_STORAGE_BASE_DIRECTORY=/tmp/tables
+
+# OWID Dataset Processing
+owid:
+  # Local clone or cache path used for raw OWID datasets.
+  root_path: "owid-datasets"
+  # Maximum per-dataset size to consider during ingestion (MB).
+  max_dataset_size_mb: 50
+
+# Data Cleaning Configuration
+cleaning:
+  # Cap the number of rows retained per cleaned table (prevents giant outputs).
+  max_rows_per_table: 1000
+  # Minimum numeric columns required after cleaning (ensures numeric signal).
+  min_numeric_columns: 1
+  # If overall missing-value ratio exceeds this threshold, drop the dataset.
+  max_missing_ratio: 0.9
+  # Remove exact duplicate rows.
+  remove_duplicates: true
+  # Normalize column names (trim spaces, normalize whitespace).
+  standardize_names: true
+  
+  # Missing value handling policy (defaults keep NA; numeric coercion occurs in code when reliable).
+  missing_value_strategy:
+    # numeric: keep_na | mean | median
+    numeric: "keep_na"
+    # categorical: keep_na | mode
+    categorical: "keep_na"
+
+# Quality Control Standards
+quality_control:
+  # Minimal ratio of non-missing values for acceptance (legacy path when not keep_na).
+  min_data_completeness: 0.3
+  # Minimal number of columns the cleaned table must retain.
+  required_columns_min: 3
+  # Minimal number of rows the cleaned table must retain.
+  min_rows: 5
+  # Upper bound on number of distinct entities to keep (protects memory/joins).
+  max_entity_cardinality: 300
+
+# Metadata Extraction
+metadata:
+  # Default LLM tag for metadata tasks (e.g., domain classification).
+  llm_model: "llama3"
+  # Max retry attempts for LLM-backed metadata steps.
+  max_retries: 2
+  # If true, abort the pipeline when the LLM client is unavailable.
+  require_llm: false
+  
+  # Preserve classification categories (required for experiments)
+  domain_categories:
+    - "economics"
+    - "demographics"
+    - "health"
+    - "education"
+    - "environment"
+    - "technology"
+    - "general"
+
+# Storage Configuration - Preserve table strategy
+storage:
+  # Root directory where cleaned tables and bundle files are saved.
+  base_directory: "data/tables_new"
+
+# Pipeline execution settings
+pipeline:
+  # Which pipeline steps to run:
+  # - tables_only: ingest+clean only
+  # - tables_with_index: ingest+clean and build index (default)
+  # - index_only: rebuild index from existing bundles
+  # - topics_only: run LLM-based grouping on existing bundles
+  mode: "tables_with_index"
+  # Filename for the index JSON (written under storage.base_directory unless overridden).
+  index_filename: "table_index.json"
+  # Optional default for CLI --limit; use null to process all datasets.
+  limit: null
+  # Default output path for topic grouping results (used by topics_only or when --topic-output provided).
+  topic_output_file: "data/tables_new/table_grouping.json"
+  # Optional override for storage.base_directory; when set, all outputs go here.
+  output_dir: null

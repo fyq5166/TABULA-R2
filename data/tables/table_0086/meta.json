@@ -1,0 +1,20 @@
+{
+  "table_id": "table_0086",
+  "title": "Child mortality, 1950-2017 (IHME, 2017)",
+  "description": "Child mortality is the share of newborns who die before reaching the age of five.\n\nThis data is available from 1950 to 2017 in 5-year intervals from the Institute of Health Metrics and Evaluation (IHME) Global Burden of Disease study, available at: http://ghdx.healthdata.org/record/ihme-data/gbd-2017-all-cause-mortality-and-life-expectancy-1950-2017",
+  "columns": [
+    "Entity",
+    "Year",
+    "Child mortality 1950-2017 (IHME, 2018)"
+  ],
+  "row_count": 1000,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Child mortality 1950-2017 (IHME, 2018)"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

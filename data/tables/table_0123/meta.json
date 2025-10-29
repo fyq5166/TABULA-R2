@@ -1,0 +1,21 @@
+{
+  "table_id": "table_0123",
+  "title": "Decomposition of Gender Wage Gap 1980 - Blau and Kahn (2017)",
+  "description": "See the authors' data appendix for more detail on how the data was prepared and analyzed.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Percent of gender gap 1980 (Blau and Kahn (2017))",
+    "Female to Male log Wage Ratio (Blau and Kahn (2017))"
+  ],
+  "row_count": 20,
+  "column_count": 4,
+  "numeric_columns": [
+    "Year",
+    "Percent of gender gap 1980 (Blau and Kahn (2017))",
+    "Female to Male log Wage Ratio (Blau and Kahn (2017))"
+  ],
+  "has_time_series": true,
+  "domain": "economics",
+  "complexity_level": "medium"
+}

@@ -1,0 +1,42 @@
+{
+  "table_id": "table_0009",
+  "title": "Air Pollutant Emissions - OECD",
+  "description": "Air pollutant emissions reported for OECD countries, where data is available, measured in tonnes per year. \n\nIndexed figures relate to changes since the year 1990 (1990 is assumed equal to 100). A figure lower than 100 indicates a reduction in emissions (e.g. 40 indicates a 60% reduction since 1990). Indexed figures are only available for countries with data extending to 1990.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Carbon Monoxide",
+    "NOx",
+    "Non-methane Volatile Organic Compounds (VOCs)",
+    "PM₁₀",
+    "PM₂.₅",
+    "SO₂",
+    "Carbon Monoxide (Index)",
+    "NOx (Index)",
+    "Non-methane Volatile Organic Compounds (VOCs) (Index)",
+    "PM₁₀ (Index)",
+    "PM₂.₅ (Index)",
+    "SO₂ (Index)"
+  ],
+  "row_count": 910,
+  "column_count": 14,
+  "numeric_columns": [
+    "Year",
+    "Carbon Monoxide",
+    "NOx",
+    "Non-methane Volatile Organic Compounds (VOCs)",
+    "PM₁₀",
+    "PM₂.₅",
+    "SO₂",
+    "Carbon Monoxide (Index)",
+    "NOx (Index)",
+    "Non-methane Volatile Organic Compounds (VOCs) (Index)",
+    "PM₁₀ (Index)",
+    "PM₂.₅ (Index)",
+    "SO₂ (Index)"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "high",
+  "suitable_for_reasoning": true
+}

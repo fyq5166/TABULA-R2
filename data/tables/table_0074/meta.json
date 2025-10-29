@@ -1,0 +1,24 @@
+{
+  "table_id": "table_0074",
+  "title": "Child Labor Italy (historic) - Toniolo, G., & Vecchi, G. (2007)",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Child labor Italy (all, historic) (Toniolo, G., & Vecchi, G. (2007))",
+    "Child labor Italy (boys, historic) (Toniolo, G., & Vecchi, G. (2007))",
+    "Child labor Italy (girls, historic) (Toniolo, G., & Vecchi, G. (2007))"
+  ],
+  "row_count": 8,
+  "column_count": 5,
+  "numeric_columns": [
+    "Year",
+    "Child labor Italy (all, historic) (Toniolo, G., & Vecchi, G. (2007))",
+    "Child labor Italy (boys, historic) (Toniolo, G., & Vecchi, G. (2007))",
+    "Child labor Italy (girls, historic) (Toniolo, G., & Vecchi, G. (2007))"
+  ],
+  "has_time_series": true,
+  "domain": "demographics",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

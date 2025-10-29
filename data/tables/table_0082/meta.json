@@ -1,0 +1,20 @@
+{
+  "table_id": "table_0082",
+  "title": "Child mortality - Gapminder (2013)",
+  "description": "Gapminder dataset. Available online at http://www.gapminder.org/.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Child mortality (Gapminder (2013))"
+  ],
+  "row_count": 1000,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Child mortality (Gapminder (2013))"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

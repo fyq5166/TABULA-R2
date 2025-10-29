@@ -1,0 +1,20 @@
+{
+  "table_id": "table_0072",
+  "title": "Child Labor (World 1950-1995) - Basu (1999)",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Child Labor (World, ILO-EPEAP, 1950-1995)"
+  ],
+  "row_count": 6,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Child Labor (World, ILO-EPEAP, 1950-1995)"
+  ],
+  "has_time_series": true,
+  "domain": "demographics",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

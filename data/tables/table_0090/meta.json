@@ -1,0 +1,22 @@
+{
+  "table_id": "table_0090",
+  "title": "City populations (1950-2035) - UN Urbanization Prospects (2018)",
+  "description": "Data on city populations is available for the world's largest 30 cities by population (in 2015).\n\nEstimates are available in 5-year intervals from 1950 to 2015. Projections are also available to the year 2035 as published by the UN World Urbanization Prospects (2018) based on its median fertility scenario and urbanization trends.",
+  "columns": [
+    "Entity",
+    "Year",
+    "City population (UN Urbanization Prospects, 2018)",
+    "Projected city population (UN Urbanization Prospects, 2018)"
+  ],
+  "row_count": 540,
+  "column_count": 4,
+  "numeric_columns": [
+    "Year",
+    "City population (UN Urbanization Prospects, 2018)",
+    "Projected city population (UN Urbanization Prospects, 2018)"
+  ],
+  "has_time_series": true,
+  "domain": "demographics",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

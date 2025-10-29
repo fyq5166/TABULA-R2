@@ -1,0 +1,40 @@
+{
+  "table_id": "table_0054",
+  "title": "CO2-GDP Coupling - OWID based on World Bank",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "GDP per capita (OWID based on World Bank)",
+    "GDP (OWID based on World Bank)",
+    "Population (OWID based on World Bank)",
+    "CO2 emissions (OWID based on World Bank)",
+    "CO2 emissions per capita (OWID based on World Bank)",
+    "Methane emissions (OWID based on World Bank)",
+    "Methane emissions per capita (OWID based on World Bank)",
+    "Nitrous oxide emissions (OWID based on World Bank)",
+    "Nitrous oxide per capita (OWID based on World Bank)",
+    "Energy use per capita (OWID based on World Bank)",
+    "Energy use (OWID based on World Bank)"
+  ],
+  "row_count": 1000,
+  "column_count": 13,
+  "numeric_columns": [
+    "Year",
+    "GDP per capita (OWID based on World Bank)",
+    "GDP (OWID based on World Bank)",
+    "Population (OWID based on World Bank)",
+    "CO2 emissions (OWID based on World Bank)",
+    "CO2 emissions per capita (OWID based on World Bank)",
+    "Methane emissions (OWID based on World Bank)",
+    "Methane emissions per capita (OWID based on World Bank)",
+    "Nitrous oxide emissions (OWID based on World Bank)",
+    "Nitrous oxide per capita (OWID based on World Bank)",
+    "Energy use per capita (OWID based on World Bank)",
+    "Energy use (OWID based on World Bank)"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "high",
+  "suitable_for_reasoning": true
+}

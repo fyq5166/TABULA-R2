@@ -1,0 +1,28 @@
+{
+  "table_id": "table_0043",
+  "title": "CO2 emissions by source - CDIAC (2016)",
+  "description": "China only refers to Mainland China; France is including Monaco. As in the original source (CDIAC), emissions from bunker fuels are not included in these totals.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Solid fuel consumption (CDIAC (2016))",
+    "Liquid fuel consumption (CDIAC (2016))",
+    "Gas fuel consumption (CDIAC (2016))",
+    "Cement production (CDIAC (2016))",
+    "Gas flaring (CDIAC (2016))"
+  ],
+  "row_count": 1000,
+  "column_count": 7,
+  "numeric_columns": [
+    "Year",
+    "Solid fuel consumption (CDIAC (2016))",
+    "Liquid fuel consumption (CDIAC (2016))",
+    "Gas fuel consumption (CDIAC (2016))",
+    "Cement production (CDIAC (2016))",
+    "Gas flaring (CDIAC (2016))"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "high",
+  "suitable_for_reasoning": true
+}

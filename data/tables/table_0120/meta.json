@@ -1,0 +1,19 @@
+{
+  "table_id": "table_0120",
+  "title": "Deaths from smallpox per million population (Edwardes, 1902)",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Number of deaths from smallpox per 1,000 population (Edwardes 1902)"
+  ],
+  "row_count": 381,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Number of deaths from smallpox per 1,000 population (Edwardes 1902)"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium"
+}

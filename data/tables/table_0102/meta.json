@@ -1,0 +1,18 @@
+{
+  "table_id": "table_0102",
+  "title": "Countries Continents",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Countries Continents"
+  ],
+  "row_count": 285,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year"
+  ],
+  "has_time_series": true,
+  "domain": "general",
+  "complexity_level": "low"
+}

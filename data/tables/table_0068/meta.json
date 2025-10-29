@@ -1,0 +1,30 @@
+{
+  "table_id": "table_0068",
+  "title": "Cereal allocation to food, feed, fuel (OWID based on FAO)",
+  "description": "This dataset reports the quantity of cereal crops allocated directly to human food; used as animal feed; and allocated to other uses (predominantly industrial uses such as biofuel production).\n\nThe dataset combines two sets of variables: in the Food Balance Sheets the FAO include data via their ‘old methodology’ from 1961 to 2013, and ‘new methodology’ separately from 2014 to 2017.\n\nThe variables included were ‘Cereals – Food’, ‘Cereals – Feed’ and ‘Cereals – Other Uses’, all measured in 1000 tonnes.\n\nWe have combined these two sets of data to get a complete series from 1961 to 2017 (in tonnes).\n\nThe share of cereals allocated to each use (Food, Feed and Other Uses) have also been calculated by dividing each individual variable by the sum of all three. For example:\nShare of cereals allocated to food = [Food / (Food + Feed + Other Uses) * 100].\n\nThis calculates the share of cereals available domestically (after trade) allocated to each use, excluding supply chain losses and seed resown from the crop.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Cereals allocated to food (tonnes) (FAO, 2020)",
+    "Cereals allocated to animal feed (tonnes) (FAO, 2020)",
+    "Cereals allocated to other uses (tonnes) (FAO, 2020)",
+    "Share of cereals allocated to food (FAO, 2020)",
+    "Share of cereals allocated to animal feed (FAO, 2020)",
+    "Share of cereals allocated to other uses (FAO, 2020)"
+  ],
+  "row_count": 1000,
+  "column_count": 8,
+  "numeric_columns": [
+    "Year",
+    "Cereals allocated to food (tonnes) (FAO, 2020)",
+    "Cereals allocated to animal feed (tonnes) (FAO, 2020)",
+    "Cereals allocated to other uses (tonnes) (FAO, 2020)",
+    "Share of cereals allocated to food (FAO, 2020)",
+    "Share of cereals allocated to animal feed (FAO, 2020)",
+    "Share of cereals allocated to other uses (FAO, 2020)"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "high",
+  "suitable_for_reasoning": true
+}

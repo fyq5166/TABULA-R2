@@ -1,0 +1,21 @@
+{
+  "table_id": "table_0105",
+  "title": "Crude Birth and Death Rates (per 1,000), England and Wales 1541-2015 - Wrigley and Schofield, Mitchell, UK ONS",
+  "description": "*Note: Our World In Data compiled the data from the above sources as follows: for the years 1541-1861: Wrigley and Schofield (1981); for the years 1862-2003: Brian Mitchell (2010); for the years 2004-2015: UK Office for National Statistics (2016).",
+  "columns": [
+    "Entity",
+    "Year",
+    "Crude Birth Rate (OWID based on Wrigley and Schofield (1981), Mitchell (2010), and UK ONS (2016))",
+    "Crude Death Rate (OWID based on Wrigley and Schofield (1981), Mitchell (2010), and UK ONS (2016))"
+  ],
+  "row_count": 219,
+  "column_count": 4,
+  "numeric_columns": [
+    "Year",
+    "Crude Birth Rate (OWID based on Wrigley and Schofield (1981), Mitchell (2010), and UK ONS (2016))",
+    "Crude Death Rate (OWID based on Wrigley and Schofield (1981), Mitchell (2010), and UK ONS (2016))"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium"
+}

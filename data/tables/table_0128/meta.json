@@ -1,0 +1,27 @@
+{
+  "table_id": "table_0128",
+  "title": "Delivery points in the US - United States Postal Service (2018)",
+  "description": "Source notes: In 2004, the Postal Service refined its reporting of addresses on rural and highway contract routes by no longer\ncounting vacant addresses (unoccupied for more than 90 days) and addresses of customers who received mail solely\nvia Post Office box. Numbers may not add up due to rounding.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Number of delivery points to city addresses (US Postal Service (2018))",
+    "Number of delivery points to rural addresses (US Postal Service (2018))",
+    "Number of delivery points to PO box addresses (US Postal Service (2018))",
+    "Number of delivery points to highway contract route addresses (US Postal Service (2018))",
+    "Number of total delivery points (US Postal Service (2018))"
+  ],
+  "row_count": 103,
+  "column_count": 7,
+  "numeric_columns": [
+    "Year",
+    "Number of delivery points to city addresses (US Postal Service (2018))",
+    "Number of delivery points to rural addresses (US Postal Service (2018))",
+    "Number of delivery points to PO box addresses (US Postal Service (2018))",
+    "Number of delivery points to highway contract route addresses (US Postal Service (2018))",
+    "Number of total delivery points (US Postal Service (2018))"
+  ],
+  "has_time_series": true,
+  "domain": "demographics",
+  "complexity_level": "medium"
+}

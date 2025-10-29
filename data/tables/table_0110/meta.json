@@ -1,0 +1,24 @@
+{
+  "table_id": "table_0110",
+  "title": "D1 vs D10-D1 income/consumption – Povcal (2018)",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Bottom decile income/consumption per day",
+    "Difference between top and bottom decile income/consumption per day",
+    "World Bank region (including Advanced Industrialized category)",
+    "pop"
+  ],
+  "row_count": 1000,
+  "column_count": 6,
+  "numeric_columns": [
+    "Year",
+    "Bottom decile income/consumption per day",
+    "Difference between top and bottom decile income/consumption per day",
+    "pop"
+  ],
+  "has_time_series": true,
+  "domain": "economics",
+  "complexity_level": "high"
+}

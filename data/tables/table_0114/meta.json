@@ -1,0 +1,25 @@
+{
+  "table_id": "table_0114",
+  "title": "Days and hours of work in Old and New Worlds - Huberman and Minns (2007)",
+  "description": "The New World includes Europe, the United States, Australia, and Canada while the Old World consists of all other countries included in Huberman and Minns's sample. The 'Old World (weighted)' and 'New World (weighted)' series are population weighted averages.\n\nSee table 1 for further information regarding sources the authors consulted in producing hours of work per week estimates.\nSee table 2 for more information about vacation and holidays estimates.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Hours of work per week (total) (Huberman and Minns (2007))",
+    "Hours of work per week (male) (Huberman and Minns (2007))",
+    "Hours of work per week (female) (Huberman and Minns (2007))",
+    "Numbers of days off (Huberman and Minns (2007))"
+  ],
+  "row_count": 240,
+  "column_count": 6,
+  "numeric_columns": [
+    "Year",
+    "Hours of work per week (total) (Huberman and Minns (2007))",
+    "Hours of work per week (male) (Huberman and Minns (2007))",
+    "Hours of work per week (female) (Huberman and Minns (2007))",
+    "Numbers of days off (Huberman and Minns (2007))"
+  ],
+  "has_time_series": true,
+  "domain": "economics",
+  "complexity_level": "medium"
+}

@@ -1,0 +1,23 @@
+{
+  "table_id": "table_0119",
+  "title": "Deaths from Smalllpox and all causes in London 1629-1902",
+  "description": "1629-1881: Guy, W. (1882). Two Hundred and Fifty Years of Small Pox in London. Journal Of The Statistical Society Of London, 45(3), 399.\n1882-1885: Registrar-general. (1886). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode\n1886-1887: Registrar-general. (1888). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode\n1888-1899: Registrar-general. (1900). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode\n1900-1902: Registrar-general. (1903). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode",
+  "columns": [
+    "Entity",
+    "Year",
+    "Deaths from Smallpox in London 1629-1902 (OWID, 2017)",
+    "Deaths from all causes in London 1629-1902 (OWID, 2017)",
+    "Smallpox death rate in London 1629-1902 (OWID, 2017)"
+  ],
+  "row_count": 241,
+  "column_count": 5,
+  "numeric_columns": [
+    "Year",
+    "Deaths from Smallpox in London 1629-1902 (OWID, 2017)",
+    "Deaths from all causes in London 1629-1902 (OWID, 2017)",
+    "Smallpox death rate in London 1629-1902 (OWID, 2017)"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium"
+}

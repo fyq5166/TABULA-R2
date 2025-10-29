@@ -1,0 +1,19 @@
+{
+  "table_id": "table_0122",
+  "title": "Deaths per TWh from low-carbon energy (Sovacool et al., 2016)",
+  "description": "Number of deaths attributed to energy-related accidents of low-carbon energy sources, measured as the number of deaths per terawatt-hour of production.\n\nSovacool et al. (2016) developed a database of energy-related accidents over the period from 1950 to 2014. They define an accident as: \"an unintentional incident or event at an energy facility that led to either one death (or more) or at least $50,000 in property damage.\"\n\nThis database was developed based on a series of academic databases (including ScienceDirect and EBSCO host) as well as the internet (using Google and Safari).\n\nThe normalized death rate data is presented by Sovacool et al. (2016) as the number of deaths per TWh over the period from 1990 to 2013.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Deaths per TWh (Sovacool et al.)"
+  ],
+  "row_count": 6,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Deaths per TWh (Sovacool et al.)"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "low"
+}

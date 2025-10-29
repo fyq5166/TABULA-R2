@@ -1,0 +1,24 @@
+{
+  "table_id": "table_0007",
+  "title": "Agricultural policy support - (Agrimonitor, 2017)",
+  "description": "The IDB Agrimonitor defines these variables as the following.\n\nProducer Support (%): The annual monetary value of gross transfers from consumers and taxpayers to agricultural producers, measured at the farm-gate level, arising from policy measures that support agriculture, regardless of their nature, objectives or impacts on farm production or income.\n\nTotal Support (%): The annual monetary value of all gross transfers from taxpayers and consumers arising from policy measures that support agriculture, net of associated budgetary receipts, regardless of their objectives and impacts on farm production and income, or consumption of farm products.\n\nGeneral Support Services (%): The annual monetary value of gross transfers to general services provided to agricultural producers collectively (such as research, development, training, inspection, marketing and promotion), arising from policy measures that support agriculture regardless of their nature, objectives and impacts on farm production, income, or consumption. The GSSE does not include any transfers to individual producers.\n",
+  "columns": [
+    "Entity",
+    "Year",
+    "Producer Support (IDB Agrimonitor)",
+    "Total Support (IDB Agrimonitor)",
+    "General Services Support (IDB Agrimonitor)"
+  ],
+  "row_count": 119,
+  "column_count": 5,
+  "numeric_columns": [
+    "Year",
+    "Producer Support (IDB Agrimonitor)",
+    "Total Support (IDB Agrimonitor)",
+    "General Services Support (IDB Agrimonitor)"
+  ],
+  "has_time_series": true,
+  "domain": "economics",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

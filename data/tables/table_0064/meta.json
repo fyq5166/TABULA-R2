@@ -1,0 +1,22 @@
+{
+  "table_id": "table_0064",
+  "title": "Causes of child mortality – IHME Global Burden of Disease study (2017)",
+  "description": "Estimates refer to both sexes and to the global level.\r\n\r\nAll causes for which IHME published an estimate of 0 were removed from the dataset.\r\n\r\nEbola as a cause of death was only included in 2015 by IHME. We have assumed 0 deaths for Ebola in 1990.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Share of children dying in first 5 years globally, by cause (IHME (2017))",
+    "Deaths (IHME (2017))"
+  ],
+  "row_count": 291,
+  "column_count": 4,
+  "numeric_columns": [
+    "Year",
+    "Share of children dying in first 5 years globally, by cause (IHME (2017))",
+    "Deaths (IHME (2017))"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

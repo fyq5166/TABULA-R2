@@ -1,0 +1,20 @@
+{
+  "table_id": "table_0091",
+  "title": "Clark, Flèche & Senik – Happiness Inequality",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Standard deviation of life satisfaction"
+  ],
+  "row_count": 51,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Standard deviation of life satisfaction"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "low",
+  "suitable_for_reasoning": true
+}

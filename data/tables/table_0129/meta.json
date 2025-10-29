@@ -1,0 +1,23 @@
+{
+  "table_id": "table_0129",
+  "title": "Democratic satisfaction - Claassen",
+  "description": "This dataset provides information on citizens' satisfaction with democracy, using data from Claassen (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+  "columns": [
+    "Entity",
+    "Year",
+    "democracy_satisf_claassen",
+    "democracy_satisf_high_claassen",
+    "democracy_satisf_low_claassen"
+  ],
+  "row_count": 1000,
+  "column_count": 5,
+  "numeric_columns": [
+    "Year",
+    "democracy_satisf_claassen",
+    "democracy_satisf_high_claassen",
+    "democracy_satisf_low_claassen"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "high"
+}

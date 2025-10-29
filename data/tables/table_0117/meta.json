@@ -1,0 +1,19 @@
+{
+  "table_id": "table_0117",
+  "title": "Deaths by World Region - WHO (2016)",
+  "description": "The original dataset is published with confidence intervals.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Malaria Deaths by World Region (WHO (2016))"
+  ],
+  "row_count": 24,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Malaria Deaths by World Region (WHO (2016))"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium"
+}

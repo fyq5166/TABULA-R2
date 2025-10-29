@@ -1,0 +1,30 @@
+{
+  "table_id": "table_0028",
+  "title": "Attitudes to Vaccines - Wellcome Trust (2019)",
+  "description": "The Wellcome Global Monitor is the world’s largest study into how people around the world think and feel about science and major health challenges. It surveys over 140,000 people from more than 140 countries. \n\nSurvey respondents were asked:\n(1) Do you strongly or somewhat agree, strongly or somewhat disagree or neither agree nor disagree with the following statements? 'Vaccines are important for children to have'.\n\n(2) Do you strongly or somewhat agree, strongly or somewhat disagree or neither agree nor disagree with the following statement? 'Vaccines are safe.'\n\n(3) Do you strongly or somewhat agree, strongly or somewhat disagree or neither agree nor disagree with the following statement? 'Vaccines are effective'.\n\nFor each question we have calculated the \"share of people who agree\" to be the sum of those who \"strongly agree\" and \"somewhat agree\"; and the \"share of people who disagree\" to be the sum of those who \"strongly disagree\" and \"somewhat disagree\".",
+  "columns": [
+    "Entity",
+    "Year",
+    "Share of people who disagree vaccines are important for children to have",
+    "Share of people who agree vaccines are safe",
+    "Share of people who disagree vaccines are safe",
+    "Share of people who agree vaccines are effective",
+    "Share of people who disagree vaccines are effective",
+    "Share of people who agree vaccines are important for children to have"
+  ],
+  "row_count": 163,
+  "column_count": 8,
+  "numeric_columns": [
+    "Year",
+    "Share of people who disagree vaccines are important for children to have",
+    "Share of people who agree vaccines are safe",
+    "Share of people who disagree vaccines are safe",
+    "Share of people who agree vaccines are effective",
+    "Share of people who disagree vaccines are effective",
+    "Share of people who agree vaccines are important for children to have"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

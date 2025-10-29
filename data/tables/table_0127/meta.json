@@ -1,0 +1,41 @@
+{
+  "table_id": "table_0127",
+  "title": "Deforestation in trade (Pendrill)",
+  "description": "Pendrill et al. (2019) developed a land-balance model which attributed detected forest loss across the world to the expansion of croplands, pasture and tree plantations. This is then linked to particular agricultural commodities based on national land use, crop and forest product statistics published in the UN Food and Agricultural Organization balance sheets.\n\nThis study maps deforestation embedded in the international trade of these products using both a physical trade model, and a MRIO (multi-regional input-output) model. This allows for the quantification of deforestation embedded in imported food and forestry products.\n\nPendrill et al. (2019) provide data on exported and imported deforestation. Our World in Data have additionally calculated the net deforestation embedded in trade for each country by subtracting exports from imports.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Imported deforestation (hectares)",
+    "Exported deforestation (hectares)",
+    "Net deforestation in trade (hectares)",
+    "embodied_deforestation",
+    "deforestation_domestic_consumption",
+    "share_deforestation_exported",
+    "share_deforestation_domestic_consumption",
+    "imported_deforestation_per_capita",
+    "exported_deforestation_per_capita",
+    "domestic_consumption_deforestation_per_capita",
+    "net_traded_deforestation_per_capita",
+    "domestic_and_imported_deforestation"
+  ],
+  "row_count": 1000,
+  "column_count": 14,
+  "numeric_columns": [
+    "Year",
+    "Imported deforestation (hectares)",
+    "Exported deforestation (hectares)",
+    "Net deforestation in trade (hectares)",
+    "embodied_deforestation",
+    "deforestation_domestic_consumption",
+    "share_deforestation_exported",
+    "share_deforestation_domestic_consumption",
+    "imported_deforestation_per_capita",
+    "exported_deforestation_per_capita",
+    "domestic_consumption_deforestation_per_capita",
+    "net_traded_deforestation_per_capita",
+    "domestic_and_imported_deforestation"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "high"
+}

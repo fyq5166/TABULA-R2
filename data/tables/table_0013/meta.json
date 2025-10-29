@@ -1,0 +1,42 @@
+{
+  "table_id": "table_0013",
+  "title": "Air pollution sources in the UK - DEFRA",
+  "description": "Data refers to the national total emissions of specific air pollutants by source, as reported by DEFRA. 'Small non-road mobile sources & machinery' refers to mobile machinery and sources such as residential, commercial, agricultural and fishery machinery.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Energy production",
+    "Manufacturing industry & construction",
+    "Road transport",
+    "Non-road transport",
+    "Small non-road mobile sources & machinery",
+    "Military aircraft and naval shipping",
+    "Fugitive emissions",
+    "Industrial processes",
+    "Agriculture",
+    "Waste",
+    "Other",
+    "Total"
+  ],
+  "row_count": 6,
+  "column_count": 14,
+  "numeric_columns": [
+    "Year",
+    "Energy production",
+    "Manufacturing industry & construction",
+    "Road transport",
+    "Non-road transport",
+    "Small non-road mobile sources & machinery",
+    "Military aircraft and naval shipping",
+    "Fugitive emissions",
+    "Industrial processes",
+    "Agriculture",
+    "Waste",
+    "Other",
+    "Total"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

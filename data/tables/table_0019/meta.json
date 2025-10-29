@@ -1,0 +1,36 @@
+{
+  "table_id": "table_0019",
+  "title": "Alcohol expenditure in the USA long-term (USDA, 2018)",
+  "description": "Data is sourced from the USDA ERS dataset 'Nominal food expenditures, with taxes and tips, from previously-published estimates', available at: https://www.ers.usda.gov/data-products/food-expenditures.aspx\n\nFigures are measured in constant 1998 US$. Values also include taxes and tips.\n\n",
+  "columns": [
+    "Entity",
+    "Year",
+    "Liquor stores (at home) (USDA, 2018)",
+    "Food stores (at home) (USDA, 2018)",
+    "Other (at home) (USDA, 2018)",
+    "Total (at home) (USDA, 2018)",
+    "Restaurants & bars (away from home) (USDA, 2018)",
+    "Hotels & motels (away from home) (USDA, 2018)",
+    "All other (away from home) (USDA, 2018)",
+    "Total (away from home)",
+    "Total alcohol expenditure (USDA, 2018)"
+  ],
+  "row_count": 80,
+  "column_count": 11,
+  "numeric_columns": [
+    "Year",
+    "Liquor stores (at home) (USDA, 2018)",
+    "Food stores (at home) (USDA, 2018)",
+    "Other (at home) (USDA, 2018)",
+    "Total (at home) (USDA, 2018)",
+    "Restaurants & bars (away from home) (USDA, 2018)",
+    "Hotels & motels (away from home) (USDA, 2018)",
+    "All other (away from home) (USDA, 2018)",
+    "Total (away from home)",
+    "Total alcohol expenditure (USDA, 2018)"
+  ],
+  "has_time_series": true,
+  "domain": "economics",
+  "complexity_level": "high",
+  "suitable_for_reasoning": true
+}

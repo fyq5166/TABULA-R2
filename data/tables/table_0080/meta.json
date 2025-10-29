@@ -1,0 +1,24 @@
+{
+  "table_id": "table_0080",
+  "title": "Child deaths by life stage (OWID based on UN IGME)",
+  "description": "Data represents the total number of deaths of children (under 5 years old) by life stage. \n\nThis is split into three categories: \n- the first 28 days of life; \n- 29 days to 1 year; \n- 1-4 years.\n\nThis was calculated by Our World in Data based on data on neonatal, infant and under-5 deaths published by the World Bank (based on the UN IGME).\n\n- The first 28 days of life are equally to neonatal deaths;\n- 29 days to 1 year are calculated as infant minus neonatal deaths;\n- 1-4 years calculated as under-5s minus infant deaths.",
+  "columns": [
+    "Entity",
+    "Year",
+    "First 28 days (number of deaths)",
+    "29 days - 1 year (number of deaths)",
+    "1-4 years (number of deaths)"
+  ],
+  "row_count": 1000,
+  "column_count": 5,
+  "numeric_columns": [
+    "Year",
+    "First 28 days (number of deaths)",
+    "29 days - 1 year (number of deaths)",
+    "1-4 years (number of deaths)"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "high",
+  "suitable_for_reasoning": true
+}

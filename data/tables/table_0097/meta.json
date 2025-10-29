@@ -1,0 +1,19 @@
+{
+  "table_id": "table_0097",
+  "title": "Conflict deaths by country – UCDP (2019)",
+  "description": "Aggregation of the 'best' estimates for deaths listed for all incidents in UCDP GED 19.1 for each country and year. UCDP defines incidents as being \"where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date\".\nNote that currently the data excludes Syria.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Violent deaths in conflicts and one-sided violence (UCDP 2019)"
+  ],
+  "row_count": 1000,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Violent deaths in conflicts and one-sided violence (UCDP 2019)"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium"
+}

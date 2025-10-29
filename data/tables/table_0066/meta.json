@@ -1,0 +1,26 @@
+{
+  "table_id": "table_0066",
+  "title": "Causes of death vs. media coverage - Shen",
+  "description": "Data was compiled and published by Owen Shen, tallying comparisons between the share of deaths, google searches and media coverage across a range of causes of death.\n\nThis includes the top 10 largest causes of mortality, as well as terrorism, overdoses, and homicides (the three additional causes of death which get significant media coverage). These are normalised to be given as deaths, Google searches and media coverage as a share of the total reported across these 13 causes (which does not mean the share of deaths or coverage of all causes of death).\n\nThe values given represent their relative share, rather than absolute counts. This allows for comparison of the proportionality in representation across different sources.\n\nMortality data was sourced from the Center for Disease Control and Prevention (CDC): https://wonder.cdc.gov/\nGoogle searches from Google Trends: https://github.com/GeneralMills/pytrends\nThe Guardian's article database: http://open-platform.theguardian.com/\nThe New York Times' database: https://developer.nytimes.com/\n",
+  "columns": [
+    "Entity",
+    "Year",
+    "Share of deaths",
+    "Share of Google searches",
+    "Share of NYT media coverage",
+    "Share of Guardian media coverage"
+  ],
+  "row_count": 234,
+  "column_count": 6,
+  "numeric_columns": [
+    "Year",
+    "Share of deaths",
+    "Share of Google searches",
+    "Share of NYT media coverage",
+    "Share of Guardian media coverage"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

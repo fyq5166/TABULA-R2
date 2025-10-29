@@ -1,0 +1,22 @@
+{
+  "table_id": "table_0075",
+  "title": "Child Labor UK (historic) - Cunningham, H. and Viazzo, P.P. (1996)",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Child Labor UK (boys, historic) (Cunningham, H. and Viazzo, P.P. (1996))",
+    "Child Labor UK (girls, historic) (Cunningham, H. and Viazzo, P.P. (1996))"
+  ],
+  "row_count": 7,
+  "column_count": 4,
+  "numeric_columns": [
+    "Year",
+    "Child Labor UK (boys, historic) (Cunningham, H. and Viazzo, P.P. (1996))",
+    "Child Labor UK (girls, historic) (Cunningham, H. and Viazzo, P.P. (1996))"
+  ],
+  "has_time_series": true,
+  "domain": "demographics",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

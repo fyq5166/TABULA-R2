@@ -1,0 +1,24 @@
+{
+  "table_id": "table_0050",
+  "title": "CO2 intensity of transport by mode (UK BEIS)",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "GHG emissions (gCO2e/km)",
+    "CO2 emissions (gCO2/km)",
+    "Non-CO2 emissions (gCO2e/km)"
+  ],
+  "row_count": 36,
+  "column_count": 5,
+  "numeric_columns": [
+    "Year",
+    "GHG emissions (gCO2e/km)",
+    "CO2 emissions (gCO2/km)",
+    "Non-CO2 emissions (gCO2e/km)"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

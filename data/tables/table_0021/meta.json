@@ -1,0 +1,20 @@
+{
+  "table_id": "table_0021",
+  "title": "Annual world population growth rate - OWID",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Annual population growth rate (OWID)"
+  ],
+  "row_count": 1000,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Annual population growth rate (OWID)"
+  ],
+  "has_time_series": true,
+  "domain": "demographics",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

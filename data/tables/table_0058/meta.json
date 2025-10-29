@@ -1,0 +1,34 @@
+{
+  "table_id": "table_0058",
+  "title": "COVID-2019 - Hospital & ICU",
+  "description": "Our hospital & ICU data is collected from official sources and collated by Our World in Data. The complete list of country-by-country sources is available <a href=\"https://github.com/owid/covid-19-data/blob/master/public/data/hospitalizations/locations.csv\">on GitHub</a>.\n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Daily ICU occupancy",
+    "Daily ICU occupancy per million",
+    "Daily hospital occupancy",
+    "Daily hospital occupancy per million",
+    "Weekly new ICU admissions",
+    "Weekly new ICU admissions per million",
+    "Weekly new hospital admissions",
+    "Weekly new hospital admissions per million"
+  ],
+  "row_count": 1000,
+  "column_count": 10,
+  "numeric_columns": [
+    "Year",
+    "Daily ICU occupancy",
+    "Daily ICU occupancy per million",
+    "Daily hospital occupancy",
+    "Daily hospital occupancy per million",
+    "Weekly new ICU admissions",
+    "Weekly new ICU admissions per million",
+    "Weekly new hospital admissions",
+    "Weekly new hospital admissions per million"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "high",
+  "suitable_for_reasoning": true
+}

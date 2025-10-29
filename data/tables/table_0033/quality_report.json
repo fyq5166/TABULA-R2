@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "original_shape": [
+    256,
+    55
+  ],
+  "final_shape": [
+    256,
+    50
+  ],
+  "rows_removed": 0,
+  "columns_removed": 5,
+  "data_completeness": 0.7189062500000001,
+  "numeric_columns": 49
+}

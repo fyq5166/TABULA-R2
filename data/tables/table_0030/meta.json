@@ -1,0 +1,38 @@
+{
+  "table_id": "table_0030",
+  "title": "Aviation accidents and fatalities by flight phase (ASN, 2019)",
+  "description": "The total number of aviation accidents and fatalities by flight phase (take-off, climbing, en-route, approach and landing). The figures include corporate jet and military transport accidents.",
+  "columns": [
+    "Entity",
+    "Year",
+    "En route accidents",
+    "En route casualties",
+    "Take off accidents",
+    "Take off casualties",
+    "Initial climb accidents",
+    "Initial climb casualties",
+    "Approach accidents",
+    "Approach fatalities",
+    "Landing accidents",
+    "Landing fatalities"
+  ],
+  "row_count": 77,
+  "column_count": 12,
+  "numeric_columns": [
+    "Year",
+    "En route accidents",
+    "En route casualties",
+    "Take off accidents",
+    "Take off casualties",
+    "Initial climb accidents",
+    "Initial climb casualties",
+    "Approach accidents",
+    "Approach fatalities",
+    "Landing accidents",
+    "Landing fatalities"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "high",
+  "suitable_for_reasoning": true
+}

@@ -1,0 +1,30 @@
+{
+  "table_id": "table_0073",
+  "title": "Child Labor (World ILO) - ILO (2017)",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Child Labor (All, World, ILO-IPEC)",
+    "Child Labor (Boys, World, 2000-2012) (ILO)",
+    "Child Labor (Girls, World, 2000-2012) (ILO)",
+    "Children (5-14 years) in employment (ILO)",
+    "Children (5-14 years) not in employment (ILO)",
+    "Child labor (incidence) (ILO)"
+  ],
+  "row_count": 12,
+  "column_count": 8,
+  "numeric_columns": [
+    "Year",
+    "Child Labor (All, World, ILO-IPEC)",
+    "Child Labor (Boys, World, 2000-2012) (ILO)",
+    "Child Labor (Girls, World, 2000-2012) (ILO)",
+    "Children (5-14 years) in employment (ILO)",
+    "Children (5-14 years) not in employment (ILO)",
+    "Child labor (incidence) (ILO)"
+  ],
+  "has_time_series": true,
+  "domain": "demographics",
+  "complexity_level": "low",
+  "suitable_for_reasoning": true
+}

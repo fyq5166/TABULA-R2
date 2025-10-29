@@ -1,0 +1,19 @@
+{
+  "table_id": "table_0101",
+  "title": "Corruption Perception Index - Transparency International (2018)",
+  "description": "The index, which ranks 180 countries and territories by their perceived levels of public sector corruption according to experts and businesspeople, uses a scale of 0 to 100, where 0 is highly corrupt and 100 is very clean.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Corruption Perception Index (Transparency International (2016))"
+  ],
+  "row_count": 1000,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Corruption Perception Index (Transparency International (2016))"
+  ],
+  "has_time_series": true,
+  "domain": "economics",
+  "complexity_level": "medium"
+}

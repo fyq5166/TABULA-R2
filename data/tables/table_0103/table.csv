@@ -1,0 +1,1001 @@
+Entity,Year,Income classification (World Bank 2017)
+Afghanistan,1987,1
+Afghanistan,1988,1
+Afghanistan,1989,1
+Afghanistan,1990,1
+Afghanistan,1991,1
+Afghanistan,1992,1
+Afghanistan,1993,1
+Afghanistan,1994,1
+Afghanistan,1995,1
+Afghanistan,1996,1
+Afghanistan,1997,1
+Afghanistan,1998,1
+Afghanistan,1999,1
+Afghanistan,2000,1
+Afghanistan,2001,1
+Afghanistan,2002,1
+Afghanistan,2003,1
+Afghanistan,2004,1
+Afghanistan,2005,1
+Afghanistan,2006,1
+Afghanistan,2007,1
+Afghanistan,2008,1
+Afghanistan,2009,1
+Afghanistan,2010,1
+Afghanistan,2011,1
+Afghanistan,2012,1
+Afghanistan,2013,1
+Afghanistan,2014,1
+Afghanistan,2015,1
+Afghanistan,2016,1
+Albania,1990,2
+Albania,1991,2
+Albania,1992,2
+Albania,1993,1
+Albania,1994,1
+Albania,1995,1
+Albania,1996,2
+Albania,1997,1
+Albania,1998,2
+Albania,1999,2
+Albania,2000,2
+Albania,2001,2
+Albania,2002,2
+Albania,2003,2
+Albania,2004,2
+Albania,2005,2
+Albania,2006,2
+Albania,2007,2
+Albania,2008,2
+Albania,2009,3
+Albania,2010,3
+Albania,2011,2
+Albania,2012,3
+Albania,2013,3
+Albania,2014,3
+Albania,2015,3
+Albania,2016,3
+Algeria,1987,3
+Algeria,1988,3
+Algeria,1989,2
+Algeria,1990,2
+Algeria,1991,2
+Algeria,1992,2
+Algeria,1993,2
+Algeria,1994,2
+Algeria,1995,2
+Algeria,1996,2
+Algeria,1997,2
+Algeria,1998,2
+Algeria,1999,2
+Algeria,2000,2
+Algeria,2001,2
+Algeria,2002,2
+Algeria,2003,2
+Algeria,2004,2
+Algeria,2005,2
+Algeria,2006,2
+Algeria,2007,2
+Algeria,2008,3
+Algeria,2009,3
+Algeria,2010,3
+Algeria,2011,3
+Algeria,2012,3
+Algeria,2013,3
+Algeria,2014,3
+Algeria,2015,3
+Algeria,2016,3
+American Samoa,1987,4
+American Samoa,1988,4
+American Samoa,1989,4
+American Samoa,1990,3
+American Samoa,1991,3
+American Samoa,1992,3
+American Samoa,1993,3
+American Samoa,1994,3
+American Samoa,1995,3
+American Samoa,1996,3
+American Samoa,1997,3
+American Samoa,1998,3
+American Samoa,1999,3
+American Samoa,2000,3
+American Samoa,2001,3
+American Samoa,2002,3
+American Samoa,2003,3
+American Samoa,2004,3
+American Samoa,2005,3
+American Samoa,2006,3
+American Samoa,2007,3
+American Samoa,2008,3
+American Samoa,2009,3
+American Samoa,2010,3
+American Samoa,2011,3
+American Samoa,2012,3
+American Samoa,2013,3
+American Samoa,2014,3
+American Samoa,2015,3
+American Samoa,2016,3
+Andorra,1990,4
+Andorra,1991,4
+Andorra,1992,4
+Andorra,1993,4
+Andorra,1994,4
+Andorra,1995,4
+Andorra,1996,4
+Andorra,1997,4
+Andorra,1998,4
+Andorra,1999,4
+Andorra,2000,4
+Andorra,2001,4
+Andorra,2002,4
+Andorra,2003,4
+Andorra,2004,4
+Andorra,2005,4
+Andorra,2006,4
+Andorra,2007,4
+Andorra,2008,4
+Andorra,2009,4
+Andorra,2010,4
+Andorra,2011,4
+Andorra,2012,4
+Andorra,2013,4
+Andorra,2014,4
+Andorra,2015,4
+Andorra,2016,4
+Angola,1988,2
+Angola,1989,2
+Angola,1990,2
+Angola,1991,2
+Angola,1992,2
+Angola,1993,2
+Angola,1994,2
+Angola,1995,1
+Angola,1996,1
+Angola,1997,1
+Angola,1998,1
+Angola,1999,1
+Angola,2000,1
+Angola,2001,1
+Angola,2002,1
+Angola,2003,1
+Angola,2004,2
+Angola,2005,2
+Angola,2006,2
+Angola,2007,2
+Angola,2008,2
+Angola,2009,2
+Angola,2010,2
+Angola,2011,3
+Angola,2012,3
+Angola,2013,3
+Angola,2014,3
+Angola,2015,3
+Angola,2016,2
+Antigua and Barbuda,1987,3
+Antigua and Barbuda,1988,3
+Antigua and Barbuda,1989,3
+Antigua and Barbuda,1990,3
+Antigua and Barbuda,1991,3
+Antigua and Barbuda,1992,3
+Antigua and Barbuda,1993,3
+Antigua and Barbuda,1994,3
+Antigua and Barbuda,1995,3
+Antigua and Barbuda,1996,3
+Antigua and Barbuda,1997,3
+Antigua and Barbuda,1998,3
+Antigua and Barbuda,1999,3
+Antigua and Barbuda,2000,3
+Antigua and Barbuda,2001,3
+Antigua and Barbuda,2002,4
+Antigua and Barbuda,2003,3
+Antigua and Barbuda,2004,3
+Antigua and Barbuda,2005,4
+Antigua and Barbuda,2006,4
+Antigua and Barbuda,2007,4
+Antigua and Barbuda,2008,4
+Antigua and Barbuda,2009,3
+Antigua and Barbuda,2010,3
+Antigua and Barbuda,2011,3
+Antigua and Barbuda,2012,4
+Antigua and Barbuda,2013,4
+Antigua and Barbuda,2014,4
+Antigua and Barbuda,2015,4
+Antigua and Barbuda,2016,4
+Argentina,1987,3
+Argentina,1988,3
+Argentina,1989,2
+Argentina,1990,2
+Argentina,1991,3
+Argentina,1992,3
+Argentina,1993,3
+Argentina,1994,3
+Argentina,1995,3
+Argentina,1996,3
+Argentina,1997,3
+Argentina,1998,3
+Argentina,1999,3
+Argentina,2000,3
+Argentina,2001,3
+Argentina,2002,3
+Argentina,2003,3
+Argentina,2004,3
+Argentina,2005,3
+Argentina,2006,3
+Argentina,2007,3
+Argentina,2008,3
+Argentina,2009,3
+Argentina,2010,3
+Argentina,2011,3
+Argentina,2012,3
+Argentina,2013,3
+Argentina,2014,4
+Argentina,2015,3
+Argentina,2016,3
+Armenia,1990,3
+Armenia,1991,2
+Armenia,1992,2
+Armenia,1993,1
+Armenia,1994,1
+Armenia,1995,1
+Armenia,1996,1
+Armenia,1997,1
+Armenia,1998,1
+Armenia,1999,1
+Armenia,2000,1
+Armenia,2001,1
+Armenia,2002,2
+Armenia,2003,2
+Armenia,2004,2
+Armenia,2005,2
+Armenia,2006,2
+Armenia,2007,2
+Armenia,2008,2
+Armenia,2009,2
+Armenia,2010,2
+Armenia,2011,2
+Armenia,2012,2
+Armenia,2013,2
+Armenia,2014,2
+Armenia,2015,2
+Armenia,2016,2
+Aruba,1987,4
+Aruba,1988,4
+Aruba,1989,4
+Aruba,1990,4
+Aruba,1991,3
+Aruba,1992,3
+Aruba,1993,3
+Aruba,1994,4
+Aruba,1995,4
+Aruba,1996,4
+Aruba,1997,4
+Aruba,1998,4
+Aruba,1999,4
+Aruba,2000,4
+Aruba,2001,4
+Aruba,2002,4
+Aruba,2003,4
+Aruba,2004,4
+Aruba,2005,4
+Aruba,2006,4
+Aruba,2007,4
+Aruba,2008,4
+Aruba,2009,4
+Aruba,2010,4
+Aruba,2011,4
+Aruba,2012,4
+Aruba,2013,4
+Aruba,2014,4
+Aruba,2015,4
+Aruba,2016,4
+Australia,1987,4
+Australia,1988,4
+Australia,1989,4
+Australia,1990,4
+Australia,1991,4
+Australia,1992,4
+Australia,1993,4
+Australia,1994,4
+Australia,1995,4
+Australia,1996,4
+Australia,1997,4
+Australia,1998,4
+Australia,1999,4
+Australia,2000,4
+Australia,2001,4
+Australia,2002,4
+Australia,2003,4
+Australia,2004,4
+Australia,2005,4
+Australia,2006,4
+Australia,2007,4
+Australia,2008,4
+Australia,2009,4
+Australia,2010,4
+Australia,2011,4
+Australia,2012,4
+Australia,2013,4
+Australia,2014,4
+Australia,2015,4
+Australia,2016,4
+Austria,1987,4
+Austria,1988,4
+Austria,1989,4
+Austria,1990,4
+Austria,1991,4
+Austria,1992,4
+Austria,1993,4
+Austria,1994,4
+Austria,1995,4
+Austria,1996,4
+Austria,1997,4
+Austria,1998,4
+Austria,1999,4
+Austria,2000,4
+Austria,2001,4
+Austria,2002,4
+Austria,2003,4
+Austria,2004,4
+Austria,2005,4
+Austria,2006,4
+Austria,2007,4
+Austria,2008,4
+Austria,2009,4
+Austria,2010,4
+Austria,2011,4
+Austria,2012,4
+Austria,2013,4
+Austria,2014,4
+Austria,2015,4
+Austria,2016,4
+Azerbaijan,1990,3
+Azerbaijan,1991,2
+Azerbaijan,1992,2
+Azerbaijan,1993,2
+Azerbaijan,1994,1
+Azerbaijan,1995,1
+Azerbaijan,1996,1
+Azerbaijan,1997,1
+Azerbaijan,1998,1
+Azerbaijan,1999,1
+Azerbaijan,2000,1
+Azerbaijan,2001,1
+Azerbaijan,2002,1
+Azerbaijan,2003,2
+Azerbaijan,2004,2
+Azerbaijan,2005,2
+Azerbaijan,2006,2
+Azerbaijan,2007,2
+Azerbaijan,2008,2
+Azerbaijan,2009,3
+Azerbaijan,2010,3
+Azerbaijan,2011,3
+Azerbaijan,2012,3
+Azerbaijan,2013,3
+Azerbaijan,2014,3
+Azerbaijan,2015,3
+Azerbaijan,2016,3
+Bahamas,1987,4
+Bahamas,1988,4
+Bahamas,1989,4
+Bahamas,1990,4
+Bahamas,1991,4
+Bahamas,1992,4
+Bahamas,1993,4
+Bahamas,1994,4
+Bahamas,1995,4
+Bahamas,1996,4
+Bahamas,1997,4
+Bahamas,1998,4
+Bahamas,1999,4
+Bahamas,2000,4
+Bahamas,2001,4
+Bahamas,2002,4
+Bahamas,2003,4
+Bahamas,2004,4
+Bahamas,2005,4
+Bahamas,2006,4
+Bahamas,2007,4
+Bahamas,2008,4
+Bahamas,2009,4
+Bahamas,2010,4
+Bahamas,2011,4
+Bahamas,2012,4
+Bahamas,2013,4
+Bahamas,2014,4
+Bahamas,2015,4
+Bahamas,2016,4
+Bahrain,1987,4
+Bahrain,1988,4
+Bahrain,1989,4
+Bahrain,1990,3
+Bahrain,1991,3
+Bahrain,1992,3
+Bahrain,1993,3
+Bahrain,1994,3
+Bahrain,1995,3
+Bahrain,1996,3
+Bahrain,1997,3
+Bahrain,1998,3
+Bahrain,1999,3
+Bahrain,2000,3
+Bahrain,2001,4
+Bahrain,2002,4
+Bahrain,2003,4
+Bahrain,2004,4
+Bahrain,2005,4
+Bahrain,2006,4
+Bahrain,2007,4
+Bahrain,2008,4
+Bahrain,2009,4
+Bahrain,2010,4
+Bahrain,2011,4
+Bahrain,2012,4
+Bahrain,2013,4
+Bahrain,2014,4
+Bahrain,2015,4
+Bahrain,2016,4
+Bangladesh,1987,1
+Bangladesh,1988,1
+Bangladesh,1989,1
+Bangladesh,1990,1
+Bangladesh,1991,1
+Bangladesh,1992,1
+Bangladesh,1993,1
+Bangladesh,1994,1
+Bangladesh,1995,1
+Bangladesh,1996,1
+Bangladesh,1997,1
+Bangladesh,1998,1
+Bangladesh,1999,1
+Bangladesh,2000,1
+Bangladesh,2001,1
+Bangladesh,2002,1
+Bangladesh,2003,1
+Bangladesh,2004,1
+Bangladesh,2005,1
+Bangladesh,2006,1
+Bangladesh,2007,1
+Bangladesh,2008,1
+Bangladesh,2009,1
+Bangladesh,2010,1
+Bangladesh,2011,1
+Bangladesh,2012,1
+Bangladesh,2013,1
+Bangladesh,2014,2
+Bangladesh,2015,2
+Bangladesh,2016,2
+Barbados,1987,3
+Barbados,1988,3
+Barbados,1989,4
+Barbados,1990,3
+Barbados,1991,3
+Barbados,1992,3
+Barbados,1993,3
+Barbados,1994,3
+Barbados,1995,3
+Barbados,1996,3
+Barbados,1997,3
+Barbados,1998,3
+Barbados,1999,3
+Barbados,2000,4
+Barbados,2001,3
+Barbados,2002,4
+Barbados,2003,3
+Barbados,2004,3
+Barbados,2005,3
+Barbados,2006,4
+Barbados,2007,4
+Barbados,2008,4
+Barbados,2009,4
+Barbados,2010,4
+Barbados,2011,4
+Barbados,2012,4
+Barbados,2013,4
+Barbados,2014,4
+Barbados,2015,4
+Barbados,2016,4
+Belarus,1990,3
+Belarus,1991,3
+Belarus,1992,3
+Belarus,1993,3
+Belarus,1994,2
+Belarus,1995,2
+Belarus,1996,2
+Belarus,1997,2
+Belarus,1998,2
+Belarus,1999,2
+Belarus,2000,2
+Belarus,2001,2
+Belarus,2002,2
+Belarus,2003,2
+Belarus,2004,2
+Belarus,2005,2
+Belarus,2006,2
+Belarus,2007,3
+Belarus,2008,3
+Belarus,2009,3
+Belarus,2010,3
+Belarus,2011,3
+Belarus,2012,3
+Belarus,2013,3
+Belarus,2014,3
+Belarus,2015,3
+Belarus,2016,3
+Belgium,1987,4
+Belgium,1988,4
+Belgium,1989,4
+Belgium,1990,4
+Belgium,1991,4
+Belgium,1992,4
+Belgium,1993,4
+Belgium,1994,4
+Belgium,1995,4
+Belgium,1996,4
+Belgium,1997,4
+Belgium,1998,4
+Belgium,1999,4
+Belgium,2000,4
+Belgium,2001,4
+Belgium,2002,4
+Belgium,2003,4
+Belgium,2004,4
+Belgium,2005,4
+Belgium,2006,4
+Belgium,2007,4
+Belgium,2008,4
+Belgium,2009,4
+Belgium,2010,4
+Belgium,2011,4
+Belgium,2012,4
+Belgium,2013,4
+Belgium,2014,4
+Belgium,2015,4
+Belgium,2016,4
+Belize,1987,2
+Belize,1988,2
+Belize,1989,2
+Belize,1990,2
+Belize,1991,2
+Belize,1992,2
+Belize,1993,2
+Belize,1994,2
+Belize,1995,2
+Belize,1996,2
+Belize,1997,2
+Belize,1998,2
+Belize,1999,2
+Belize,2000,2
+Belize,2001,2
+Belize,2002,3
+Belize,2003,3
+Belize,2004,3
+Belize,2005,3
+Belize,2006,3
+Belize,2007,3
+Belize,2008,2
+Belize,2009,2
+Belize,2010,2
+Belize,2011,2
+Belize,2012,3
+Belize,2013,3
+Belize,2014,3
+Belize,2015,3
+Belize,2016,3
+Benin,1987,1
+Benin,1988,1
+Benin,1989,1
+Benin,1990,1
+Benin,1991,1
+Benin,1992,1
+Benin,1993,1
+Benin,1994,1
+Benin,1995,1
+Benin,1996,1
+Benin,1997,1
+Benin,1998,1
+Benin,1999,1
+Benin,2000,1
+Benin,2001,1
+Benin,2002,1
+Benin,2003,1
+Benin,2004,1
+Benin,2005,1
+Benin,2006,1
+Benin,2007,1
+Benin,2008,1
+Benin,2009,1
+Benin,2010,1
+Benin,2011,1
+Benin,2012,1
+Benin,2013,1
+Benin,2014,1
+Benin,2015,1
+Benin,2016,1
+Bermuda,1987,4
+Bermuda,1988,4
+Bermuda,1989,4
+Bermuda,1990,4
+Bermuda,1991,4
+Bermuda,1992,4
+Bermuda,1993,4
+Bermuda,1994,4
+Bermuda,1995,4
+Bermuda,1996,4
+Bermuda,1997,4
+Bermuda,1998,4
+Bermuda,1999,4
+Bermuda,2000,4
+Bermuda,2001,4
+Bermuda,2002,4
+Bermuda,2003,4
+Bermuda,2004,4
+Bermuda,2005,4
+Bermuda,2006,4
+Bermuda,2007,4
+Bermuda,2008,4
+Bermuda,2009,4
+Bermuda,2010,4
+Bermuda,2011,4
+Bermuda,2012,4
+Bermuda,2013,4
+Bermuda,2014,4
+Bermuda,2015,4
+Bermuda,2016,4
+Bhutan,1987,1
+Bhutan,1988,1
+Bhutan,1989,1
+Bhutan,1990,1
+Bhutan,1991,1
+Bhutan,1992,1
+Bhutan,1993,1
+Bhutan,1994,1
+Bhutan,1995,1
+Bhutan,1996,1
+Bhutan,1997,1
+Bhutan,1998,1
+Bhutan,1999,1
+Bhutan,2000,1
+Bhutan,2001,1
+Bhutan,2002,1
+Bhutan,2003,1
+Bhutan,2004,1
+Bhutan,2005,1
+Bhutan,2006,2
+Bhutan,2007,2
+Bhutan,2008,2
+Bhutan,2009,2
+Bhutan,2010,2
+Bhutan,2011,2
+Bhutan,2012,2
+Bhutan,2013,2
+Bhutan,2014,2
+Bhutan,2015,2
+Bhutan,2016,2
+Bolivia,1987,2
+Bolivia,1988,2
+Bolivia,1989,2
+Bolivia,1990,2
+Bolivia,1991,2
+Bolivia,1992,2
+Bolivia,1993,2
+Bolivia,1994,2
+Bolivia,1995,2
+Bolivia,1996,2
+Bolivia,1997,2
+Bolivia,1998,2
+Bolivia,1999,2
+Bolivia,2000,2
+Bolivia,2001,2
+Bolivia,2002,2
+Bolivia,2003,2
+Bolivia,2004,2
+Bolivia,2005,2
+Bolivia,2006,2
+Bolivia,2007,2
+Bolivia,2008,2
+Bolivia,2009,2
+Bolivia,2010,2
+Bolivia,2011,2
+Bolivia,2012,2
+Bolivia,2013,2
+Bolivia,2014,2
+Bolivia,2015,2
+Bolivia,2016,2
+Bosnia and Herzegovina,1992,2
+Bosnia and Herzegovina,1993,1
+Bosnia and Herzegovina,1994,1
+Bosnia and Herzegovina,1995,1
+Bosnia and Herzegovina,1996,1
+Bosnia and Herzegovina,1997,1
+Bosnia and Herzegovina,1998,2
+Bosnia and Herzegovina,1999,2
+Bosnia and Herzegovina,2000,2
+Bosnia and Herzegovina,2001,2
+Bosnia and Herzegovina,2002,2
+Bosnia and Herzegovina,2003,2
+Bosnia and Herzegovina,2004,2
+Bosnia and Herzegovina,2005,2
+Bosnia and Herzegovina,2006,2
+Bosnia and Herzegovina,2007,2
+Bosnia and Herzegovina,2008,3
+Bosnia and Herzegovina,2009,3
+Bosnia and Herzegovina,2010,3
+Bosnia and Herzegovina,2011,3
+Bosnia and Herzegovina,2012,3
+Bosnia and Herzegovina,2013,3
+Bosnia and Herzegovina,2014,3
+Bosnia and Herzegovina,2015,3
+Bosnia and Herzegovina,2016,3
+Botswana,1987,2
+Botswana,1988,2
+Botswana,1989,2
+Botswana,1990,2
+Botswana,1991,3
+Botswana,1992,3
+Botswana,1993,2
+Botswana,1994,2
+Botswana,1995,2
+Botswana,1996,2
+Botswana,1997,3
+Botswana,1998,3
+Botswana,1999,3
+Botswana,2000,3
+Botswana,2001,3
+Botswana,2002,3
+Botswana,2003,3
+Botswana,2004,3
+Botswana,2005,3
+Botswana,2006,3
+Botswana,2007,3
+Botswana,2008,3
+Botswana,2009,3
+Botswana,2010,3
+Botswana,2011,3
+Botswana,2012,3
+Botswana,2013,3
+Botswana,2014,3
+Botswana,2015,3
+Botswana,2016,3
+Brazil,1987,3
+Brazil,1988,2
+Brazil,1989,3
+Brazil,1990,3
+Brazil,1991,3
+Brazil,1992,3
+Brazil,1993,3
+Brazil,1994,3
+Brazil,1995,3
+Brazil,1996,3
+Brazil,1997,3
+Brazil,1998,3
+Brazil,1999,3
+Brazil,2000,3
+Brazil,2001,3
+Brazil,2002,2
+Brazil,2003,2
+Brazil,2004,2
+Brazil,2005,2
+Brazil,2006,3
+Brazil,2007,3
+Brazil,2008,3
+Brazil,2009,3
+Brazil,2010,3
+Brazil,2011,3
+Brazil,2012,3
+Brazil,2013,3
+Brazil,2014,3
+Brazil,2015,3
+Brazil,2016,3
+British Virgin Islands,2015,4
+British Virgin Islands,2016,4
+Brunei,1987,4
+Brunei,1990,4
+Brunei,1991,4
+Brunei,1992,4
+Brunei,1993,4
+Brunei,1994,4
+Brunei,1995,4
+Brunei,1996,4
+Brunei,1997,4
+Brunei,1998,4
+Brunei,1999,4
+Brunei,2000,4
+Brunei,2001,4
+Brunei,2002,4
+Brunei,2003,4
+Brunei,2004,4
+Brunei,2005,4
+Brunei,2006,4
+Brunei,2007,4
+Brunei,2008,4
+Brunei,2009,4
+Brunei,2010,4
+Brunei,2011,4
+Brunei,2012,4
+Brunei,2013,4
+Brunei,2014,4
+Brunei,2015,4
+Brunei,2016,4
+Bulgaria,1989,2
+Bulgaria,1990,2
+Bulgaria,1991,2
+Bulgaria,1992,2
+Bulgaria,1993,2
+Bulgaria,1994,2
+Bulgaria,1995,2
+Bulgaria,1996,2
+Bulgaria,1997,2
+Bulgaria,1998,2
+Bulgaria,1999,2
+Bulgaria,2000,2
+Bulgaria,2001,2
+Bulgaria,2002,2
+Bulgaria,2003,2
+Bulgaria,2004,2
+Bulgaria,2005,2
+Bulgaria,2006,3
+Bulgaria,2007,3
+Bulgaria,2008,3
+Bulgaria,2009,3
+Bulgaria,2010,3
+Bulgaria,2011,3
+Bulgaria,2012,3
+Bulgaria,2013,3
+Bulgaria,2014,3
+Bulgaria,2015,3
+Bulgaria,2016,3
+Burkina Faso,1987,1
+Burkina Faso,1988,1
+Burkina Faso,1989,1
+Burkina Faso,1990,1
+Burkina Faso,1991,1
+Burkina Faso,1992,1
+Burkina Faso,1993,1
+Burkina Faso,1994,1
+Burkina Faso,1995,1
+Burkina Faso,1996,1
+Burkina Faso,1997,1
+Burkina Faso,1998,1
+Burkina Faso,1999,1
+Burkina Faso,2000,1
+Burkina Faso,2001,1
+Burkina Faso,2002,1
+Burkina Faso,2003,1
+Burkina Faso,2004,1
+Burkina Faso,2005,1
+Burkina Faso,2006,1
+Burkina Faso,2007,1
+Burkina Faso,2008,1
+Burkina Faso,2009,1
+Burkina Faso,2010,1
+Burkina Faso,2011,1
+Burkina Faso,2012,1
+Burkina Faso,2013,1
+Burkina Faso,2014,1
+Burkina Faso,2015,1
+Burkina Faso,2016,1
+Burundi,1987,1
+Burundi,1988,1
+Burundi,1989,1
+Burundi,1990,1
+Burundi,1991,1
+Burundi,1992,1
+Burundi,1993,1
+Burundi,1994,1
+Burundi,1995,1
+Burundi,1996,1
+Burundi,1997,1
+Burundi,1998,1
+Burundi,1999,1
+Burundi,2000,1
+Burundi,2001,1
+Burundi,2002,1
+Burundi,2003,1
+Burundi,2004,1
+Burundi,2005,1
+Burundi,2006,1
+Burundi,2007,1
+Burundi,2008,1
+Burundi,2009,1
+Burundi,2010,1
+Burundi,2011,1
+Burundi,2012,1
+Burundi,2013,1
+Burundi,2014,1
+Burundi,2015,1
+Burundi,2016,1
+Cambodia,1987,1
+Cambodia,1988,1
+Cambodia,1989,1
+Cambodia,1990,1
+Cambodia,1991,1
+Cambodia,1992,1
+Cambodia,1993,1
+Cambodia,1994,1
+Cambodia,1995,1
+Cambodia,1996,1
+Cambodia,1997,1
+Cambodia,1998,1
+Cambodia,1999,1
+Cambodia,2000,1
+Cambodia,2001,1
+Cambodia,2002,1
+Cambodia,2003,1
+Cambodia,2004,1
+Cambodia,2005,1
+Cambodia,2006,1
+Cambodia,2007,1
+Cambodia,2008,1
+Cambodia,2009,1
+Cambodia,2010,1
+Cambodia,2011,1
+Cambodia,2012,1
+Cambodia,2013,1
+Cambodia,2014,1
+Cambodia,2015,2
+Cambodia,2016,2
+Cameroon,1987,2
+Cameroon,1988,2
+Cameroon,1989,2
+Cameroon,1990,2
+Cameroon,1991,2
+Cameroon,1992,2
+Cameroon,1993,2
+Cameroon,1994,1
+Cameroon,1995,1
+Cameroon,1996,1
+Cameroon,1997,1
+Cameroon,1998,1
+Cameroon,1999,1
+Cameroon,2000,1
+Cameroon,2001,1
+Cameroon,2002,1
+Cameroon,2003,1
+Cameroon,2004,1
+Cameroon,2005,2
+Cameroon,2006,2
+Cameroon,2007,2
+Cameroon,2008,2
+Cameroon,2009,2
+Cameroon,2010,2
+Cameroon,2011,2
+Cameroon,2012,2
+Cameroon,2013,2
+Cameroon,2014,2
+Cameroon,2015,2
+Cameroon,2016,2
+Canada,1987,4
+Canada,1988,4
+Canada,1989,4
+Canada,1990,4
+Canada,1991,4
+Canada,1992,4
+Canada,1993,4
+Canada,1994,4
+Canada,1995,4
+Canada,1996,4
+Canada,1997,4
+Canada,1998,4
+Canada,1999,4
+Canada,2000,4
+Canada,2001,4
+Canada,2002,4
+Canada,2003,4
+Canada,2004,4
+Canada,2005,4
+Canada,2006,4
+Canada,2007,4
+Canada,2008,4
+Canada,2009,4
+Canada,2010,4
+Canada,2011,4
+Canada,2012,4
+Canada,2013,4
+Canada,2014,4
+Canada,2015,4
+Canada,2016,4
+Cape Verde,1988,2
+Cape Verde,1989,2
+Cape Verde,1990,2

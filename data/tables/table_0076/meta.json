@@ -1,0 +1,20 @@
+{
+  "table_id": "table_0076",
+  "title": "Child Labor in US - Long (1958)",
+  "description": "The incidence of child labour in males and females aged 10-13 has been taken directly from the source; this is available for both rural and urban demographics individually.\n\nTo calculate the incidence of child labour across both sexes combined, we have weighted gender-specific incidences based on the male:female ratio in the total population for this age bracket (these are based on reported gender ratios, which may incur rounding errors). The same weighting application of population in rural vs. urban areas has been carried out to provide a combined rural & urban figure of incidence.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Child Labor (Long (1958))"
+  ],
+  "row_count": 45,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Child Labor (Long (1958))"
+  ],
+  "has_time_series": true,
+  "domain": "demographics",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

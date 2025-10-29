@@ -1,0 +1,19 @@
+{
+  "table_id": "table_0124",
+  "title": "Decomposition of Gender Wage Gap 2010 - Blau and Kahn (2017)",
+  "description": "See the authors' data appendix for more detail on how the data was prepared and analyzed. ",
+  "columns": [
+    "Entity",
+    "Year",
+    "Percent of gender gap 2010 (Blau and Kahn 2017)"
+  ],
+  "row_count": 8,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Percent of gender gap 2010 (Blau and Kahn 2017)"
+  ],
+  "has_time_series": true,
+  "domain": "economics",
+  "complexity_level": "low"
+}

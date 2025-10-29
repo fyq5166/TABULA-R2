@@ -1,0 +1,20 @@
+{
+  "table_id": "table_0003",
+  "title": "Absolute deaths from ambient PM2.5 air pollution- State of Global Air",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Absolute deaths from ambient PM2.5 air pollution- State of Global Air"
+  ],
+  "row_count": 1000,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Absolute deaths from ambient PM2.5 air pollution- State of Global Air"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

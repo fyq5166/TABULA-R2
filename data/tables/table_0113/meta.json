@@ -1,0 +1,19 @@
+{
+  "table_id": "table_0113",
+  "title": "Daily supply of calories per person (OWID based on UN FAO & historical sources)",
+  "description": "This dataset has been constructed by Our World in Data from multiple sources.\n\nAll data from 1961 onwards is sourced from the Food and Agriculture Organization of the United Nations. Available at: https://www.fao.org/faostat/en/#data/FBS\n\nPre-1961 data is available for some countries, based on a range of historical reconstructions.\n\nWe provide further details of all of these sources, and how this dataset is constructed here: https://ourworldindata.org/calorie-supply-sources",
+  "columns": [
+    "Entity",
+    "Year",
+    "Daily caloric supply (OWID based on UN FAO & historical sources)"
+  ],
+  "row_count": 1000,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Daily caloric supply (OWID based on UN FAO & historical sources)"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium"
+}

@@ -1,0 +1,20 @@
+{
+  "table_id": "table_0044",
+  "title": "CO2 emissions in trade as % production - Global Carbon Project (2014)",
+  "description": "Original data on production-based emissions, and emissions transfers in trade from Peters et al. (2012) via the Global Carbon Project (http://www.globalcarbonproject.org/carbonbudget/16/data.htm) have been manipulated to calculate the emissions transfers as a percentage of production-based emissions, presented in this chart.",
+  "columns": [
+    "Entity",
+    "Year",
+    "CO2 traded as percentage of domestic emissions production (Global Carbon Project (2014))"
+  ],
+  "row_count": 1000,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "CO2 traded as percentage of domestic emissions production (Global Carbon Project (2014))"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

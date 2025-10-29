@@ -1,0 +1,20 @@
+{
+  "table_id": "table_0081",
+  "title": "Child deaths – United Nations Population Division (2015)",
+  "description": "– The original data is presented in 1,000s live births. Here it was multiplied by 1,000 for this reason.\r\n\r\n– Importantly data refer to 5 year intervals around the indicated year. E.g. 1952 refers to 1950-1954 in the original dataset. Here the value for the 5 year interval is divided by 5 and attributed to the mid-year of the interval.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Child deaths (United Nations Population Division (2015))"
+  ],
+  "row_count": 1000,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Child deaths (United Nations Population Division (2015))"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

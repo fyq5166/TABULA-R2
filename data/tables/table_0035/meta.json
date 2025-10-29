@@ -1,0 +1,22 @@
+{
+  "table_id": "table_0035",
+  "title": "Biomass and taxa abundance (Bar-On et al. 2018)",
+  "description": "Estimates of the global biomass (measured in tonnes of carbon) and abundance (number of individuals) of different taxonomic groups.\n\nDue to large uncertainty for some groups, these are used as order-of-magnitude estimates and come with notable error margins.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Global biomass",
+    "Abundance of organisms"
+  ],
+  "row_count": 17,
+  "column_count": 4,
+  "numeric_columns": [
+    "Year",
+    "Global biomass",
+    "Abundance of organisms"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

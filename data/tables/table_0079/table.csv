@@ -1,0 +1,1001 @@
+Entity,Year,"Child mortality (Select Gapminder, v10) (2017)"
+Afghanistan,1952,413.956
+Afghanistan,1953,407.034
+Afghanistan,1954,400.297
+Afghanistan,1955,393.745
+Afghanistan,1956,387.378
+Afghanistan,1957,381.194
+Afghanistan,1958,375.19
+Afghanistan,1959,369.361
+Afghanistan,1960,363.7
+Afghanistan,1961,357.5
+Afghanistan,1962,351.5
+Afghanistan,1963,345.5
+Afghanistan,1964,339.7
+Afghanistan,1965,333.9
+Afghanistan,1966,328.4
+Afghanistan,1967,322.7
+Afghanistan,1968,317.2
+Afghanistan,1969,311.5
+Afghanistan,1970,306.0
+Afghanistan,1971,300.4
+Afghanistan,1972,294.7
+Afghanistan,1973,288.9
+Afghanistan,1974,282.7
+Afghanistan,1975,276.7
+Afghanistan,1976,270.6
+Afghanistan,1977,264.3
+Afghanistan,1978,257.9
+Afghanistan,1979,251.5
+Afghanistan,1980,244.8
+Afghanistan,1981,238.2
+Afghanistan,1982,231.5
+Afghanistan,1983,224.6
+Afghanistan,1984,217.9
+Afghanistan,1985,210.9
+Afghanistan,1986,204.1
+Afghanistan,1987,197.2
+Afghanistan,1988,190.5
+Afghanistan,1989,183.8
+Afghanistan,1990,177.3
+Afghanistan,1991,171.1
+Afghanistan,1992,165.2
+Afghanistan,1993,159.6
+Afghanistan,1994,154.5
+Afghanistan,1995,149.6
+Afghanistan,1996,145.1
+Afghanistan,1997,141.0
+Afghanistan,1998,137.1
+Afghanistan,1999,133.4
+Afghanistan,2000,129.7
+Afghanistan,2001,126.0
+Afghanistan,2002,122.2
+Afghanistan,2003,118.3
+Afghanistan,2004,114.4
+Afghanistan,2005,110.3
+Afghanistan,2006,106.3
+Afghanistan,2007,102.2
+Afghanistan,2008,98.2
+Afghanistan,2009,94.1
+Afghanistan,2010,90.2
+Afghanistan,2011,86.4
+Afghanistan,2012,82.8
+Afghanistan,2013,79.3
+Afghanistan,2014,76.1
+Afghanistan,2015,73.2
+Afghanistan,2016,70.4
+Albania,1951,268.994
+Albania,1952,258.42
+Albania,1953,248.262
+Albania,1954,238.504
+Albania,1955,229.129
+Albania,1956,220.122
+Albania,1957,211.47
+Albania,1958,203.157
+Albania,1959,195.172
+Albania,1960,187.5
+Albania,1961,180.13
+Albania,1962,173.049
+Albania,1963,166.247
+Albania,1964,159.712
+Albania,1965,153.434
+Albania,1966,147.403
+Albania,1967,141.609
+Albania,1968,136.043
+Albania,1969,130.695
+Albania,1970,125.558
+Albania,1971,120.622
+Albania,1972,115.881
+Albania,1973,111.326
+Albania,1974,106.95
+Albania,1975,102.746
+Albania,1976,98.707
+Albania,1977,94.827
+Albania,1978,90.8
+Albania,1979,84.1
+Albania,1980,77.8
+Albania,1981,72.0
+Albania,1982,66.8
+Albania,1983,61.9
+Albania,1984,57.4
+Albania,1985,53.4
+Albania,1986,49.8
+Albania,1987,46.7
+Albania,1988,44.1
+Albania,1989,41.8
+Albania,1990,40.0
+Albania,1991,38.3
+Albania,1992,36.9
+Albania,1993,35.5
+Albania,1994,34.2
+Albania,1995,32.9
+Albania,1996,31.5
+Albania,1997,30.1
+Albania,1998,28.7
+Albania,1999,27.4
+Albania,2000,26.0
+Albania,2001,24.8
+Albania,2002,23.5
+Albania,2003,22.4
+Albania,2004,21.4
+Albania,2005,20.4
+Albania,2006,19.4
+Albania,2007,18.6
+Albania,2008,17.9
+Albania,2009,17.2
+Albania,2010,16.6
+Albania,2011,16.0
+Albania,2012,15.4
+Albania,2013,14.9
+Albania,2014,14.4
+Albania,2015,14.0
+Albania,2016,13.5
+Algeria,1945,323.838
+Algeria,1946,310.991
+Algeria,1947,298.648
+Algeria,1948,286.789
+Algeria,1949,275.396
+Algeria,1950,264.451
+Algeria,1951,262.405
+Algeria,1952,258.285
+Algeria,1953,254.117
+Algeria,1954,249.9
+Algeria,1955,248.9
+Algeria,1956,247.6
+Algeria,1957,246.6
+Algeria,1958,245.7
+Algeria,1959,245.2
+Algeria,1960,244.8
+Algeria,1961,244.7
+Algeria,1962,245.0
+Algeria,1963,245.8
+Algeria,1964,246.6
+Algeria,1965,247.6
+Algeria,1966,248.1
+Algeria,1967,248.0
+Algeria,1968,246.6
+Algeria,1969,244.4
+Algeria,1970,240.8
+Algeria,1971,235.7
+Algeria,1972,229.2
+Algeria,1973,221.6
+Algeria,1974,213.0
+Algeria,1975,203.8
+Algeria,1976,194.1
+Algeria,1977,183.9
+Algeria,1978,172.9
+Algeria,1979,161.2
+Algeria,1980,148.1
+Algeria,1981,133.3
+Algeria,1982,117.4
+Algeria,1983,101.3
+Algeria,1984,86.2
+Algeria,1985,73.7
+Algeria,1986,64.4
+Algeria,1987,57.9
+Algeria,1988,53.5
+Algeria,1989,50.8
+Algeria,1990,49.0
+Algeria,1991,47.6
+Algeria,1992,46.5
+Algeria,1993,45.5
+Algeria,1994,44.4
+Algeria,1995,43.3
+Algeria,1996,42.3
+Algeria,1997,41.5
+Algeria,1998,40.8
+Algeria,1999,40.3
+Algeria,2000,39.7
+Algeria,2001,38.9
+Algeria,2002,37.8
+Algeria,2003,36.5
+Algeria,2004,35.1
+Algeria,2005,33.5
+Algeria,2006,32.1
+Algeria,2007,30.7
+Algeria,2008,29.4
+Algeria,2009,28.3
+Algeria,2010,27.3
+Algeria,2011,26.6
+Algeria,2012,26.1
+Algeria,2013,25.8
+Algeria,2014,25.6
+Algeria,2015,25.5
+Algeria,2016,25.2
+Andorra,1985,12.9
+Andorra,1986,11.9
+Andorra,1987,11.1
+Andorra,1988,10.2
+Andorra,1989,9.5
+Andorra,1990,8.8
+Andorra,1991,8.1
+Andorra,1992,7.5
+Andorra,1993,7.0
+Andorra,1994,6.5
+Andorra,1995,6.1
+Andorra,1996,5.7
+Andorra,1997,5.3
+Andorra,1998,5.0
+Andorra,1999,4.8
+Andorra,2000,4.6
+Andorra,2001,4.4
+Andorra,2002,4.2
+Andorra,2003,4.1
+Andorra,2004,4.0
+Andorra,2005,3.8
+Andorra,2006,3.7
+Andorra,2007,3.6
+Andorra,2008,3.5
+Andorra,2009,3.4
+Andorra,2010,3.3
+Andorra,2011,3.2
+Andorra,2012,3.1
+Andorra,2013,3.0
+Andorra,2014,2.9
+Andorra,2015,2.8
+Andorra,2016,2.7
+Angola,1971,264.232
+Angola,1972,260.366
+Angola,1973,256.519
+Angola,1974,252.748
+Angola,1975,249.152
+Angola,1976,245.839
+Angola,1977,242.883
+Angola,1978,240.323
+Angola,1979,238.167
+Angola,1980,236.4
+Angola,1981,233.6
+Angola,1982,230.5
+Angola,1983,227.8
+Angola,1984,225.4
+Angola,1985,223.9
+Angola,1986,222.6
+Angola,1987,221.8
+Angola,1988,221.3
+Angola,1989,221.2
+Angola,1990,221.4
+Angola,1991,222.1
+Angola,1992,222.8
+Angola,1993,223.5
+Angola,1994,223.7
+Angola,1995,223.4
+Angola,1996,222.0
+Angola,1997,219.7
+Angola,1998,216.5
+Angola,1999,212.2
+Angola,2000,207.0
+Angola,2001,200.9
+Angola,2002,193.9
+Angola,2003,185.7
+Angola,2004,177.0
+Angola,2005,167.2
+Angola,2006,157.5
+Angola,2007,147.6
+Angola,2008,137.9
+Angola,2009,128.3
+Angola,2010,119.4
+Angola,2011,111.0
+Angola,2012,103.5
+Angola,2013,96.8
+Angola,2014,91.2
+Angola,2015,86.5
+Angola,2016,82.5
+Antigua and Barbuda,1801,469.77
+Antigua and Barbuda,1802,465.972
+Antigua and Barbuda,1803,462.204
+Antigua and Barbuda,1804,458.466
+Antigua and Barbuda,1805,454.759
+Antigua and Barbuda,1806,451.082
+Antigua and Barbuda,1807,447.434
+Antigua and Barbuda,1808,443.816
+Antigua and Barbuda,1809,440.227
+Antigua and Barbuda,1810,436.668
+Antigua and Barbuda,1811,433.137
+Antigua and Barbuda,1812,429.634
+Antigua and Barbuda,1813,426.16
+Antigua and Barbuda,1814,422.714
+Antigua and Barbuda,1815,419.296
+Antigua and Barbuda,1816,415.905
+Antigua and Barbuda,1817,412.542
+Antigua and Barbuda,1818,409.206
+Antigua and Barbuda,1819,405.897
+Antigua and Barbuda,1820,402.615
+Antigua and Barbuda,1821,399.36
+Antigua and Barbuda,1822,396.13
+Antigua and Barbuda,1823,392.927
+Antigua and Barbuda,1824,389.75
+Antigua and Barbuda,1825,386.598
+Antigua and Barbuda,1826,383.472
+Antigua and Barbuda,1827,380.371
+Antigua and Barbuda,1828,377.295
+Antigua and Barbuda,1829,374.245
+Antigua and Barbuda,1830,371.218
+Antigua and Barbuda,1831,368.217
+Antigua and Barbuda,1832,365.239
+Antigua and Barbuda,1833,362.286
+Antigua and Barbuda,1834,359.356
+Antigua and Barbuda,1835,356.45
+Antigua and Barbuda,1836,353.568
+Antigua and Barbuda,1837,350.709
+Antigua and Barbuda,1838,347.873
+Antigua and Barbuda,1839,345.06
+Antigua and Barbuda,1840,342.27
+Antigua and Barbuda,1841,339.502
+Antigua and Barbuda,1842,336.757
+Antigua and Barbuda,1843,334.034
+Antigua and Barbuda,1844,331.333
+Antigua and Barbuda,1845,328.653
+Antigua and Barbuda,1846,325.996
+Antigua and Barbuda,1847,323.36
+Antigua and Barbuda,1848,320.745
+Antigua and Barbuda,1849,318.151
+Antigua and Barbuda,1850,315.579
+Antigua and Barbuda,1851,313.027
+Antigua and Barbuda,1852,310.496
+Antigua and Barbuda,1853,307.985
+Antigua and Barbuda,1854,305.495
+Antigua and Barbuda,1855,303.024
+Antigua and Barbuda,1856,300.574
+Antigua and Barbuda,1857,298.143
+Antigua and Barbuda,1858,295.733
+Antigua and Barbuda,1859,293.341
+Antigua and Barbuda,1860,290.969
+Antigua and Barbuda,1861,288.616
+Antigua and Barbuda,1862,286.283
+Antigua and Barbuda,1863,283.968
+Antigua and Barbuda,1864,281.671
+Antigua and Barbuda,1865,279.394
+Antigua and Barbuda,1866,277.135
+Antigua and Barbuda,1867,274.894
+Antigua and Barbuda,1868,272.671
+Antigua and Barbuda,1869,270.466
+Antigua and Barbuda,1870,268.279
+Antigua and Barbuda,1871,266.109
+Antigua and Barbuda,1872,263.958
+Antigua and Barbuda,1873,261.823
+Antigua and Barbuda,1874,259.706
+Antigua and Barbuda,1875,257.606
+Antigua and Barbuda,1876,255.523
+Antigua and Barbuda,1877,253.457
+Antigua and Barbuda,1878,251.407
+Antigua and Barbuda,1879,249.374
+Antigua and Barbuda,1880,247.358
+Antigua and Barbuda,1881,245.358
+Antigua and Barbuda,1882,243.374
+Antigua and Barbuda,1883,241.406
+Antigua and Barbuda,1884,239.454
+Antigua and Barbuda,1885,237.517
+Antigua and Barbuda,1886,235.597
+Antigua and Barbuda,1887,233.692
+Antigua and Barbuda,1888,231.802
+Antigua and Barbuda,1889,229.927
+Antigua and Barbuda,1890,228.068
+Antigua and Barbuda,1891,226.224
+Antigua and Barbuda,1892,224.395
+Antigua and Barbuda,1893,222.58
+Antigua and Barbuda,1894,220.78
+Antigua and Barbuda,1895,218.995
+Antigua and Barbuda,1896,217.224
+Antigua and Barbuda,1897,215.468
+Antigua and Barbuda,1898,213.725
+Antigua and Barbuda,1899,211.997
+Antigua and Barbuda,1900,210.283
+Antigua and Barbuda,1901,208.583
+Antigua and Barbuda,1902,206.896
+Antigua and Barbuda,1903,205.223
+Antigua and Barbuda,1904,203.563
+Antigua and Barbuda,1905,201.917
+Antigua and Barbuda,1906,200.285
+Antigua and Barbuda,1907,198.665
+Antigua and Barbuda,1908,197.059
+Antigua and Barbuda,1909,195.465
+Antigua and Barbuda,1910,193.885
+Antigua and Barbuda,1911,192.317
+Antigua and Barbuda,1912,190.762
+Antigua and Barbuda,1913,189.219
+Antigua and Barbuda,1914,187.689
+Antigua and Barbuda,1915,186.171
+Antigua and Barbuda,1916,184.666
+Antigua and Barbuda,1917,183.173
+Antigua and Barbuda,1918,181.691
+Antigua and Barbuda,1919,180.222
+Antigua and Barbuda,1920,178.765
+Antigua and Barbuda,1921,177.319
+Antigua and Barbuda,1922,175.886
+Antigua and Barbuda,1923,174.463
+Antigua and Barbuda,1924,173.053
+Antigua and Barbuda,1925,171.653
+Antigua and Barbuda,1926,170.265
+Antigua and Barbuda,1927,168.888
+Antigua and Barbuda,1928,167.523
+Antigua and Barbuda,1929,166.168
+Antigua and Barbuda,1930,164.824
+Antigua and Barbuda,1931,163.778
+Antigua and Barbuda,1932,162.737
+Antigua and Barbuda,1933,161.702
+Antigua and Barbuda,1934,160.674
+Antigua and Barbuda,1935,159.651
+Antigua and Barbuda,1936,158.635
+Antigua and Barbuda,1937,157.624
+Antigua and Barbuda,1938,156.62
+Antigua and Barbuda,1939,155.621
+Antigua and Barbuda,1940,154.629
+Antigua and Barbuda,1941,153.642
+Antigua and Barbuda,1942,152.661
+Antigua and Barbuda,1943,151.686
+Antigua and Barbuda,1944,150.717
+Antigua and Barbuda,1945,149.753
+Antigua and Barbuda,1946,148.795
+Antigua and Barbuda,1947,147.843
+Antigua and Barbuda,1948,146.897
+Antigua and Barbuda,1949,145.956
+Antigua and Barbuda,1981,41.341
+Antigua and Barbuda,1982,39.707
+Antigua and Barbuda,1983,38.143
+Antigua and Barbuda,1984,36.642
+Antigua and Barbuda,1985,35.2
+Antigua and Barbuda,1986,33.1
+Antigua and Barbuda,1987,31.2
+Antigua and Barbuda,1988,29.4
+Antigua and Barbuda,1989,27.7
+Antigua and Barbuda,1990,26.1
+Antigua and Barbuda,1991,24.6
+Antigua and Barbuda,1992,23.2
+Antigua and Barbuda,1993,21.8
+Antigua and Barbuda,1994,20.6
+Antigua and Barbuda,1995,19.5
+Antigua and Barbuda,1996,18.4
+Antigua and Barbuda,1997,17.4
+Antigua and Barbuda,1998,16.5
+Antigua and Barbuda,1999,15.6
+Antigua and Barbuda,2000,14.9
+Antigua and Barbuda,2001,14.2
+Antigua and Barbuda,2002,13.6
+Antigua and Barbuda,2003,13.1
+Antigua and Barbuda,2004,12.6
+Antigua and Barbuda,2005,12.1
+Antigua and Barbuda,2006,11.7
+Antigua and Barbuda,2007,11.4
+Antigua and Barbuda,2008,11.0
+Antigua and Barbuda,2009,10.6
+Antigua and Barbuda,2010,10.3
+Antigua and Barbuda,2011,9.9
+Antigua and Barbuda,2012,9.6
+Antigua and Barbuda,2013,9.3
+Antigua and Barbuda,2014,9.0
+Antigua and Barbuda,2015,8.7
+Antigua and Barbuda,2016,8.5
+Argentina,1902,337.403
+Argentina,1903,324.693
+Argentina,1904,312.463
+Argentina,1905,300.693
+Argentina,1906,289.366
+Argentina,1907,278.466
+Argentina,1908,267.977
+Argentina,1909,257.882
+Argentina,1910,248.168
+Argentina,1911,238.82
+Argentina,1912,229.61
+Argentina,1913,205.35
+Argentina,1914,195.97
+Argentina,1915,194.09
+Argentina,1916,194.09
+Argentina,1917,201.61
+Argentina,1918,220.33
+Argentina,1919,212.85
+Argentina,1920,199.73
+Argentina,1921,179.05
+Argentina,1922,171.55
+Argentina,1923,171.55
+Argentina,1924,179.05
+Argentina,1925,188.45
+Argentina,1926,184.69
+Argentina,1927,197.85
+Argentina,1928,173.43
+Argentina,1929,162.22
+Argentina,1930,149.27
+Argentina,1931,149.27
+Argentina,1932,140.16
+Argentina,1933,125.89
+Argentina,1934,143.79
+Argentina,1935,160.37
+Argentina,1936,143.79
+Argentina,1937,140.16
+Argentina,1938,154.8
+Argentina,1939,131.19
+Argentina,1940,131.19
+Argentina,1941,122.37
+Argentina,1942,124.13
+Argentina,1943,113.71
+Argentina,1944,115.43
+Argentina,1945,117.16
+Argentina,1946,103.53
+Argentina,1947,110.29
+Argentina,1948,95.24
+Argentina,1949,91.99
+Argentina,1950,93.6
+Argentina,1951,91.99
+Argentina,1952,88.79
+Argentina,1953,85.73
+Argentina,1954,81.22
+Argentina,1955,84.24
+Argentina,1956,76.57
+Argentina,1957,93.6
+Argentina,1958,82.73
+Argentina,1959,77.863
+Argentina,1960,73.282
+Argentina,1961,68.971
+Argentina,1962,64.913
+Argentina,1963,61.094
+Argentina,1964,57.5
+Argentina,1965,57.5
+Argentina,1966,58.7
+Argentina,1967,58.6
+Argentina,1968,58.4
+Argentina,1969,73.2
+Argentina,1970,72.4
+Argentina,1971,71.4
+Argentina,1972,70.2
+Argentina,1973,68.6
+Argentina,1974,66.5
+Argentina,1975,63.8
+Argentina,1976,60.2
+Argentina,1977,56.1
+Argentina,1978,51.6
+Argentina,1979,47.3
+Argentina,1980,43.5
+Argentina,1981,40.1
+Argentina,1982,37.2
+Argentina,1983,34.7
+Argentina,1984,32.7
+Argentina,1985,31.1
+Argentina,1986,30.0
+Argentina,1987,29.4
+Argentina,1988,29.1
+Argentina,1989,29.0
+Argentina,1990,28.8
+Argentina,1991,28.3
+Argentina,1992,27.6
+Argentina,1993,26.6
+Argentina,1994,25.4
+Argentina,1995,24.3
+Argentina,1996,23.2
+Argentina,1997,22.1
+Argentina,1998,21.1
+Argentina,1999,20.2
+Argentina,2000,19.4
+Argentina,2001,18.7
+Argentina,2002,18.1
+Argentina,2003,17.6
+Argentina,2004,17.1
+Argentina,2005,16.6
+Argentina,2006,16.1
+Argentina,2007,15.8
+Argentina,2008,15.4
+Argentina,2009,15.0
+Argentina,2010,14.5
+Argentina,2011,13.9
+Argentina,2012,13.3
+Argentina,2013,12.7
+Argentina,2014,12.1
+Argentina,2015,11.6
+Argentina,2016,11.1
+Armenia,1801,370.715
+Armenia,1802,370.23
+Armenia,1803,369.746
+Armenia,1804,369.263
+Armenia,1805,368.78
+Armenia,1806,368.298
+Armenia,1807,367.817
+Armenia,1808,367.336
+Armenia,1809,366.856
+Armenia,1810,366.377
+Armenia,1811,365.898
+Armenia,1812,365.419
+Armenia,1813,364.942
+Armenia,1814,364.465
+Armenia,1815,363.988
+Armenia,1816,363.513
+Armenia,1817,363.037
+Armenia,1818,362.563
+Armenia,1819,362.089
+Armenia,1820,361.616
+Armenia,1821,361.143
+Armenia,1822,360.671
+Armenia,1823,360.2
+Armenia,1824,359.729
+Armenia,1825,359.259
+Armenia,1826,358.789
+Armenia,1827,358.32
+Armenia,1828,357.852
+Armenia,1829,357.384
+Armenia,1830,356.917
+Armenia,1831,356.45
+Armenia,1832,355.984
+Armenia,1833,355.519
+Armenia,1834,355.054
+Armenia,1835,354.59
+Armenia,1836,354.127
+Armenia,1837,353.664
+Armenia,1838,353.202
+Armenia,1839,352.74
+Armenia,1840,352.279
+Armenia,1841,351.818
+Armenia,1842,351.359
+Armenia,1843,350.899
+Armenia,1844,350.441
+Armenia,1845,349.983
+Armenia,1846,349.525
+Armenia,1847,349.068
+Armenia,1848,348.612
+Armenia,1849,348.156
+Armenia,1850,347.701
+Armenia,1851,347.247
+Armenia,1852,346.793
+Armenia,1853,346.34
+Armenia,1854,345.887
+Armenia,1855,345.435
+Armenia,1856,344.983
+Armenia,1857,344.532
+Armenia,1858,344.082
+Armenia,1859,343.632
+Armenia,1860,343.183
+Armenia,1861,342.734
+Armenia,1862,342.287
+Armenia,1863,341.839
+Armenia,1864,341.392
+Armenia,1865,340.946
+Armenia,1866,340.5
+Armenia,1867,340.055
+Armenia,1868,339.611
+Armenia,1869,339.167
+Armenia,1870,338.724
+Armenia,1871,338.281
+Armenia,1872,337.839
+Armenia,1873,337.397
+Armenia,1874,336.956
+Armenia,1875,336.516
+Armenia,1876,336.076
+Armenia,1877,335.637
+Armenia,1878,335.198
+Armenia,1879,334.76
+Armenia,1880,334.322
+Armenia,1881,333.885
+Armenia,1882,333.449
+Armenia,1883,333.013
+Armenia,1884,332.578
+Armenia,1885,332.143
+Armenia,1886,331.709
+Armenia,1887,331.275
+Armenia,1888,330.842
+Armenia,1889,330.41
+Armenia,1890,329.978
+Armenia,1891,329.547
+Armenia,1892,329.116
+Armenia,1893,328.686
+Armenia,1894,328.256
+Armenia,1895,327.827
+Armenia,1896,327.398
+Armenia,1897,326.97
+Armenia,1898,326.543
+Armenia,1899,326.116
+Armenia,1901,321.818
+Armenia,1902,317.992
+Armenia,1903,314.212
+Armenia,1904,310.476
+Armenia,1905,306.785
+Armenia,1906,303.138
+Armenia,1907,299.534
+Armenia,1908,295.973
+Armenia,1909,292.454
+Armenia,1910,288.977
+Armenia,1911,285.542
+Armenia,1912,282.147
+Armenia,1913,278.793
+Armenia,1914,275.478
+Armenia,1915,272.203
+Armenia,1916,268.967
+Armenia,1917,265.769
+Armenia,1918,262.61
+Armenia,1919,259.488
+Armenia,1920,256.403
+Armenia,1921,253.354
+Armenia,1922,250.342
+Armenia,1923,247.366
+Armenia,1924,244.425
+Armenia,1925,241.519
+Armenia,1926,238.648
+Armenia,1927,235.811
+Armenia,1928,233.007
+Armenia,1929,230.237
+Armenia,1931,222.09
+Armenia,1932,216.775
+Armenia,1933,211.556
+Armenia,1934,206.433
+Armenia,1935,201.405
+Armenia,1936,196.472
+Armenia,1937,191.634
+Armenia,1938,186.89
+Armenia,1939,182.24
+Armenia,1940,177.684
+Armenia,1941,173.219
+Armenia,1942,168.847
+Armenia,1943,164.565
+Armenia,1944,160.373
+Armenia,1945,156.271
+Armenia,1946,152.256
+Armenia,1947,148.328
+Armenia,1948,144.487
+Armenia,1949,140.73
+Armenia,1967,102.517
+Armenia,1968,100.62
+Armenia,1969,98.778
+Armenia,1970,97.012
+Armenia,1971,95.345
+Armenia,1972,93.785
+Armenia,1973,92.323
+Armenia,1974,90.952
+Armenia,1975,89.628
+Armenia,1976,88.3
+Armenia,1977,84.7
+Armenia,1978,81.3
+Armenia,1979,78.0
+Armenia,1980,75.0
+Armenia,1981,72.0
+Armenia,1982,69.1
+Armenia,1983,66.5
+Armenia,1984,63.9
+Armenia,1985,61.4
+Armenia,1986,59.0
+Armenia,1987,56.6
+Armenia,1988,81.6
+Armenia,1989,52.0
+Armenia,1990,49.7
+Armenia,1991,47.4
+Armenia,1992,45.1
+Armenia,1993,42.9
+Armenia,1994,40.7
+Armenia,1995,38.7
+Armenia,1996,36.8
+Armenia,1997,35.0
+Armenia,1998,33.3
+Armenia,1999,31.6
+Armenia,2000,30.1
+Armenia,2001,28.6
+Armenia,2002,27.2
+Armenia,2003,25.9
+Armenia,2004,24.6
+Armenia,2005,23.4
+Armenia,2006,22.2
+Armenia,2007,21.1
+Armenia,2008,20.0
+Armenia,2009,19.0
+Armenia,2010,18.1
+Armenia,2011,17.2
+Armenia,2012,16.3
+Armenia,2013,15.5
+Armenia,2014,14.7
+Armenia,2015,14.0
+Armenia,2016,13.4
+Aruba,1950,109.309
+Aruba,1951,105.483
+Aruba,1952,98.12
+Aruba,1953,91.334
+Aruba,1954,85.126
+Aruba,1955,79.494
+Aruba,1956,74.432
+Aruba,1957,69.927
+Aruba,1958,65.954
+Aruba,1959,62.477
+Aruba,1960,59.443
+Aruba,1961,56.791
+Aruba,1962,54.445
+Aruba,1963,52.322
+Aruba,1964,50.347
+Aruba,1965,48.45
+Aruba,1966,46.585
+Aruba,1967,44.751
+Aruba,1968,42.951
+Aruba,1969,41.173
+Aruba,1970,39.426
+Aruba,1971,37.737
+Aruba,1972,36.14
+Aruba,1973,34.658
+Aruba,1974,33.29
+Aruba,1975,32.018
+Aruba,1976,30.808
+Aruba,1977,29.635
+Aruba,1978,28.489
+Aruba,1979,27.375
+Aruba,1980,26.327
+Aruba,1981,25.389
+Aruba,1982,24.599
+Aruba,1983,23.975
+Aruba,1984,23.515
+Aruba,1985,23.198
+Aruba,1986,22.991
+Aruba,1987,22.844
+Aruba,1988,22.716
+Aruba,1989,22.585
+Aruba,1990,22.439
+Aruba,1991,22.282
+Aruba,1992,22.132
+Aruba,1993,22.0
+Aruba,1994,21.882
+Aruba,1995,21.779
+Aruba,1996,21.687
+Aruba,1997,21.601
+Aruba,1998,21.511
+Aruba,1999,21.407
+Aruba,2000,21.272
+Aruba,2001,21.093
+Aruba,2002,20.863
+Aruba,2003,20.582
+Aruba,2004,20.254
+Aruba,2005,19.886
+Aruba,2006,19.492
+Aruba,2007,19.09
+Aruba,2008,18.696
+Aruba,2009,18.32
+Aruba,2010,17.969
+Aruba,2011,17.645
+Aruba,2012,17.342
+Aruba,2013,17.056
+Aruba,2014,16.782
+Aruba,2015,16.52
+Aruba,2016,16.265
+Australia,1861,359.677
+Australia,1862,330.871
+Australia,1863,304.372
+Australia,1864,279.996
+Australia,1865,257.572
+Australia,1866,236.943
+Australia,1867,217.967
+Australia,1868,200.511
+Australia,1869,184.452
+Australia,1870,169.68
+Australia,1871,156.65
+Australia,1872,182.81
+Australia,1873,175.3
+Australia,1874,195.97
+Australia,1875,222.2
+Australia,1876,184.69
+Australia,1877,199.73
+Australia,1878,207.23
+Australia,1879,177.18
+Australia,1880,180.93
+Australia,1881,179.05
+Australia,1882,214.72
+Australia,1883,188.45
+Australia,1884,195.97
+Australia,1885,201.61
+Australia,1886,197.85
+Australia,1887,179.05
+Australia,1888,179.05
+Australia,1889,209.1
+Australia,1890,162.22
+Australia,1891,177.18
+Australia,1892,160.37
+Australia,1893,179.05
+Australia,1894,156.65
+Australia,1895,151.1
+Australia,1896,175.3
+Australia,1897,158.51
+Australia,1898,201.61
+Australia,1899,179.05
+Australia,1900,149.27
+Australia,1901,156.65
+Australia,1902,162.22
+Australia,1903,169.68
+Australia,1904,117.16
+Australia,1905,117.16
+Australia,1906,118.9
+Australia,1907,115.43
+Australia,1908,110.29
+Australia,1909,100.18
+Australia,1910,105.2
+Australia,1911,93.6
+Australia,1912,100.18
+Australia,1913,100.18
+Australia,1914,98.52
+Australia,1915,93.6
+Australia,1916,96.88
+Australia,1917,75.01
+Australia,1918,79.68
+Australia,1919,95.24
+Australia,1920,95.24
+Australia,1921,89.08
+Australia,1922,70.99
+Australia,1923,79.48
+Australia,1924,76.05
+Australia,1925,69.76
+Australia,1926,70.23
+Australia,1927,72.27
+Australia,1928,71.57
+Australia,1929,68.14
+Australia,1930,63.78
+Australia,1931,54.35
+Australia,1932,53.64
+Australia,1933,53.3
+Australia,1934,58.03
+Australia,1935,53.59
+Australia,1936,55.81
+Australia,1937,50.67
+Australia,1938,50.45
+Australia,1939,50.47
+Australia,1940,50.17
+Australia,1941,52.49
+Australia,1942,51.49
+Australia,1943,50.27
+Australia,1944,41.42
+Australia,1945,37.93
+Australia,1946,38.52
+Australia,1947,35.78
+Australia,1948,33.93
+Australia,1949,31.51
+Australia,1950,31.6
+Australia,1951,31.0
+Australia,1952,30.3
+Australia,1953,29.5
+Australia,1954,28.7
+Australia,1955,28.0
+Australia,1956,27.3
+Australia,1957,26.6
+Australia,1958,26.0
+Australia,1959,25.4
+Australia,1960,24.9
+Australia,1961,24.3
+Australia,1962,23.7
+Australia,1963,23.2
+Australia,1964,22.7
+Australia,1965,22.4
+Australia,1966,22.1
+Australia,1967,22.0
+Australia,1968,21.9
+Australia,1969,21.7
+Australia,1970,21.4
+Australia,1971,21.0
+Australia,1972,20.3
+Australia,1973,19.4
+Australia,1974,18.4
+Australia,1975,17.3
+Australia,1976,16.2
+Australia,1977,15.2
+Australia,1978,14.4
+Australia,1979,13.6
+Australia,1980,13.0
+Australia,1981,12.6
+Australia,1982,12.2
+Australia,1983,11.9
+Australia,1984,11.6
+Australia,1985,11.3
+Australia,1986,11.0
+Australia,1987,10.6
+Australia,1988,10.2
+Australia,1989,9.7
+Australia,1990,9.2
+Australia,1991,8.7
+Australia,1992,8.2
+Australia,1993,7.7
+Australia,1994,7.3
+Australia,1995,7.0
+Australia,1996,6.8
+Australia,1997,6.6
+Australia,1998,6.4
+Australia,1999,6.3
+Australia,2000,6.2
+Australia,2001,6.1
+Australia,2002,6.0
+Australia,2003,5.9
+Australia,2004,5.8
+Australia,2005,5.7
+Australia,2006,5.6
+Australia,2007,5.4
+Australia,2008,5.2
+Australia,2009,5.0
+Australia,2010,4.8
+Australia,2011,4.6
+Australia,2012,4.3
+Australia,2013,4.2
+Australia,2014,4.0
+Australia,2015,3.8

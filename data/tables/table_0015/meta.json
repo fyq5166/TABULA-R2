@@ -1,0 +1,22 @@
+{
+  "table_id": "table_0015",
+  "title": "Airline hijacking - Aviation Safety Network",
+  "description": "Number of hijackings, fatalities of hijacking",
+  "columns": [
+    "Entity",
+    "Year",
+    "Number of airline hijackings (Aviation Safety Network)",
+    "Fatalities due to airline hijacking (Aviation Safety Network)"
+  ],
+  "row_count": 73,
+  "column_count": 4,
+  "numeric_columns": [
+    "Year",
+    "Number of airline hijackings (Aviation Safety Network)",
+    "Fatalities due to airline hijacking (Aviation Safety Network)"
+  ],
+  "has_time_series": true,
+  "domain": "health",
+  "complexity_level": "high",
+  "suitable_for_reasoning": true
+}

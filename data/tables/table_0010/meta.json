@@ -1,0 +1,22 @@
+{
+  "table_id": "table_0010",
+  "title": "Air pollution by city - Fouquet and DPCC (2011)",
+  "description": "Raw data and extension of this set to 2016 was generously supplied through personal communication with the author.\nData trends for Delhi have a shorter coverage, and are not available post-2010 (later measurements are now reported based on particle size rather than total suspended particulate matter).",
+  "columns": [
+    "Entity",
+    "Year",
+    "Smoke (Fouquet and DPCC (2011))",
+    "Suspended Particulate Matter (SPM) (Fouquet and DPCC (2011))"
+  ],
+  "row_count": 331,
+  "column_count": 4,
+  "numeric_columns": [
+    "Year",
+    "Smoke (Fouquet and DPCC (2011))",
+    "Suspended Particulate Matter (SPM) (Fouquet and DPCC (2011))"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

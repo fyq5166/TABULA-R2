@@ -1,0 +1,20 @@
+{
+  "table_id": "table_0093",
+  "title": "Coal production - The SHIFT Project",
+  "description": "Data from 1900-1980 is sourced from Bouda Etemad and Jean Luciani, World Energy Production 1800 – 1985, ISBN 2-600-56007-6.\n\nData from 1980 onwards is source from U.S. Energy Information Administration, International Energy Statistics.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Coal production (The SHIFT Project)"
+  ],
+  "row_count": 1000,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Coal production (The SHIFT Project)"
+  ],
+  "has_time_series": true,
+  "domain": "economics",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

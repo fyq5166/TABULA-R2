@@ -1,0 +1,26 @@
+{
+  "table_id": "table_0002",
+  "title": "A Century of Work and Leisure - Ramey and Francis (2009)",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Average weekly hours worked per person by demographic group (Ramey and Francis (2009))",
+    "Average weekly hours devoted to school (Ramey and Francis (2009))",
+    "Weekly home production time by demographic group (Ramey and Francis (2009))",
+    "Average weekly leisure estimates by age (Ramey and Francis (2009))"
+  ],
+  "row_count": 300,
+  "column_count": 6,
+  "numeric_columns": [
+    "Year",
+    "Average weekly hours worked per person by demographic group (Ramey and Francis (2009))",
+    "Average weekly hours devoted to school (Ramey and Francis (2009))",
+    "Weekly home production time by demographic group (Ramey and Francis (2009))",
+    "Average weekly leisure estimates by age (Ramey and Francis (2009))"
+  ],
+  "has_time_series": true,
+  "domain": "economics",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

@@ -1,0 +1,26 @@
+{
+  "table_id": "table_0040",
+  "title": "CO2 emissions by city - C40 Cities (2018)",
+  "description": "",
+  "columns": [
+    "Entity",
+    "Year",
+    "Population density",
+    "CO2 emissions per capita",
+    "Transport emissions per capita (tCO2)",
+    "Waste emissions per capita"
+  ],
+  "row_count": 53,
+  "column_count": 6,
+  "numeric_columns": [
+    "Year",
+    "Population density",
+    "CO2 emissions per capita",
+    "Transport emissions per capita (tCO2)",
+    "Waste emissions per capita"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "medium",
+  "suitable_for_reasoning": true
+}

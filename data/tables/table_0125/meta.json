@@ -1,0 +1,19 @@
+{
+  "table_id": "table_0125",
+  "title": "Decomposition times of marine debris",
+  "description": "Average estimated decomposition time of typical marine debris items.",
+  "columns": [
+    "Entity",
+    "Year",
+    "Decomposition rates of marine debris (years)"
+  ],
+  "row_count": 13,
+  "column_count": 3,
+  "numeric_columns": [
+    "Year",
+    "Decomposition rates of marine debris (years)"
+  ],
+  "has_time_series": true,
+  "domain": "environment",
+  "complexity_level": "low"
+}

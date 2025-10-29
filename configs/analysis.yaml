@@ -133,6 +133,7 @@ analysis:
       - "success_by_complexity"        # Success rate by complexity level
       - "success_by_domain"            # Success rate by domain
       - "success_by_answer_type"       # Success rate by answer type
+      - "success_by_answerable"        # Success rate by answerability
       - "success_by_has_distractor"    # Success rate by distractor presence
       - "success_by_distractor_type"   # Success rate by distractor type
       

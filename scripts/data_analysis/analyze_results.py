@@ -675,6 +675,7 @@ class ExperimentAnalyzer:
         if ('success_by_reasoning_type' in enabled_charts or 
             'success_by_complexity' in enabled_charts or 
             'success_by_domain' in enabled_charts or 
+            'success_by_answerable' in enabled_charts or
             not enabled_charts):
             try:
                 self._generate_metadata_visualizations(df, stats)
@@ -840,6 +841,40 @@ class ExperimentAnalyzer:
             else:
                 logger.debug("No has_distractor data available for visualization")
         
+        # Success rate by answerable
+        if 'answerable' in metadata_analysis and metadata_analysis['answerable']:
+            answerable_data = metadata_analysis['answerable'].get('success_rate', {})
+            if answerable_data and len(answerable_data) > 0:
+                plt.figure(figsize=(10, 6))
+                answerable_types = list(answerable_data.keys())
+                success_rates = list(answerable_data.values())
+                
+                # Convert boolean to string for better display
+                display_types = ['Non-Answerable' if not x else 'Answerable' for x in answerable_types]
+                
+                bars = plt.bar(display_types, success_rates, color=['lightcoral', 'lightgreen'], edgecolor='navy')
+                plt.title('Success Rate by Answerability', fontsize=18, fontweight='bold', pad=30)
+                plt.xlabel('Answerability', fontsize=14)
+                plt.ylabel('Success Rate (%)', fontsize=14)
+                plt.xticks(fontsize=12)
+                plt.yticks(fontsize=12)
+                
+                # Add value labels on bars
+                for bar, rate in zip(bars, success_rates):
+                    plt.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.005, 
+                            f'{rate:.1%}', ha='center', va='bottom', fontsize=11, fontweight='bold')
+                
+                # Set y-axis to percentage
+                plt.gca().yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'{x:.0%}'))
+                plt.ylim(0, max(success_rates) * 1.2 if success_rates else 1)
+                
+                plt.tight_layout()
+                plt.savefig(self.analysis_path / 'success_by_answerable.png', dpi=300, bbox_inches='tight')
+                plt.close()
+                logger.info("Generated success rate by answerable chart")
+            else:
+                logger.debug("No answerable data available for visualization")
+        
         # Success rate by distractor_type
         if 'distractor_type' in metadata_analysis and metadata_analysis['distractor_type']:
             distractor_type_data = metadata_analysis['distractor_type'].get('success_rate', {})
@@ -1003,7 +1038,7 @@ class ExperimentAnalyzer:
         
         # Define metadata dimensions to analyze
         metadata_dimensions = [
-            'reasoning_type', 'answer_ability', 'answer_type', 
+            'reasoning_type', 'answerable', 'answer_type', 
             'complexity', 'distractor_type', 'has_distractor', 'table_number', 'domain'
         ]
         
